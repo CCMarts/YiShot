@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>一拍起卦</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 480px;
+            margin: 0 auto;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 20px 10px;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            font-weight: 300;
+            letter-spacing: 8px;
+            color: #fff;
+            margin-bottom: 8px;
+            border: 1px solid #222;
+            border-radius: 4px;
+            padding: 12px 20px;
+        }
+
+        .header p {
+            font-size: 13px;
+            color: #666;
+            letter-spacing: 2px;
+        }
+
+        .upload-area {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 20px 0;
+        }
+
+        .upload-box {
+            width: 100%;
+            aspect-ratio: 3/4;
+            border: 1px dashed #333;
+            border-radius: 4px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: #111;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .upload-box:hover {
+            border-color: #555;
+            background: #151515;
+        }
+
+        .upload-box.has-image {
+            border-style: solid;
+            border-color: #222;
+        }
+
+        .upload-icon {
+            font-size: 48px;
+            color: #444;
+            margin-bottom: 20px;
+            font-variant-emoji: text;
+        }
+
+        .upload-text {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 8px;
+        }
+
+        .upload-hint {
+            font-size: 12px;
+            color: #444;
+        }
+
+        #photo-preview {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: none;
+        }
+
+        .upload-box.has-image #photo-preview {
+            display: block;
+        }
+
+        .upload-box.has-image .upload-icon,
+        .upload-box.has-image .upload-text,
+        .upload-box.has-image .upload-hint {
+            display: none;
+        }
+
+        #file-input {
+            display: none;
+        }
+
+        .action-area {
+            padding: 30px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 16px;
+            border: none;
+            border-radius: 4px;
+            font-size: 15px;
+            letter-spacing: 4px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-weight: 300;
+        }
+
+        .btn-primary {
+            background: #fff;
+            color: #0a0a0a;
+        }
+
+        .btn-primary:hover {
+            background: #e0e0e0;
+        }
+
+        .btn-primary:disabled {
+            background: #333;
+            color: #666;
+            cursor: not-allowed;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: #888;
+            border: 1px solid #333;
+        }
+
+        .btn-secondary:hover {
+            border-color: #555;
+            color: #aaa;
+        }
+
+        .result-area {
+            display: none;
+            padding: 20px 20px 0;
+        }
+
+        .result-area.active {
+            display: block;
+        }
+
+        .result-section {
+            background: #111;
+            border-radius: 4px;
+            padding: 20px;
+            margin-bottom: 16px;
+            border: 1px solid #1a1a1a;
+        }
+
+        .section-label {
+            font-size: 12px;
+            color: #666;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+        }
+
+        .gua-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 16px;
+        }
+
+        .gua-symbol {
+            font-size: 36px;
+            line-height: 1;
+            color: #fff;
+        }
+
+        .gua-header-center {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 0;
+        }
+
+        .gua-symbol-bold {
+            font-size: 36px;
+            line-height: 1;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .gua-name {
+            font-size: 22px;
+            font-weight: 300;
+            color: #fff;
+            letter-spacing: 4px;
+        }
+
+        .gua-trigrams {
+            font-size: 12px;
+            color: #666;
+            margin-top: 4px;
+        }
+
+        .gua-text {
+            font-size: 15px;
+            color: #ccc;
+            line-height: 1.8;
+            padding: 12px 0;
+            border-top: 1px solid #1a1a1a;
+            border-bottom: 1px solid #1a1a1a;
+            margin-bottom: 12px;
+        }
+
+        .gua-meaning {
+            font-size: 13px;
+            color: #999;
+            margin-bottom: 8px;
+        }
+
+        .gua-modern {
+            font-size: 14px;
+            color: #ddd;
+            padding: 12px 16px;
+            background: #0d0d0d;
+            border-radius: 4px;
+            border-left: 2px solid #444;
+        }
+
+        .yao-list {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .yao-item {
+            padding: 12px;
+            background: #0d0d0d;
+            border-radius: 4px;
+            border-left: 2px solid #333;
+        }
+
+        .yao-item.changing {
+            border-left-color: #888;
+            background: #131313;
+        }
+
+        .yao-position {
+            font-size: 13px;
+            color: #aaa;
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+
+        .yao-text {
+            font-size: 13px;
+            color: #ccc;
+            margin-bottom: 4px;
+        }
+
+        .yao-interp {
+            font-size: 12px;
+            color: #777;
+        }
+
+        .divider {
+            text-align: center;
+            color: #333;
+            font-size: 12px;
+            padding: 8px 0;
+            letter-spacing: 8px;
+            font-variant-emoji: text;
+        }
+
+        .summary-box {
+            background: linear-gradient(135deg, #111 0%, #0d0d0d 100%);
+            border: 1px solid #222;
+            border-radius: 4px;
+            padding: 24px 20px;
+            margin-top: 20px;
+        }
+
+        .summary-title {
+            font-size: 13px;
+            color: #888;
+            letter-spacing: 4px;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+
+        .summary-text {
+            font-size: 14px;
+            color: #ddd;
+            line-height: 2;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 2px solid #222;
+            border-top-color: #666;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .loading-text {
+            font-size: 13px;
+            color: #666;
+            letter-spacing: 2px;
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 12px;
+            margin-top: 24px;
+            padding: 0 20px;
+        }
+
+        .nav-buttons .btn {
+            flex: 1;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 16px;
+            }
+
+            .header {
+                padding: 16px 0 6px;
+            }
+
+            .header h1 {
+                font-size: 24px;
+                letter-spacing: 6px;
+                padding: 10px 16px;
+            }
+
+            .upload-area {
+                padding: 20px 0 0;
+            }
+
+            .action-area {
+                padding: 30px 0;
+            }
+
+            .result-area {
+                padding: 20px 0 0;
+            }
+
+            .nav-buttons {
+                padding: 0;
+            }
+
+            .upload-icon {
+                font-size: 40px;
+            }
+
+            .btn {
+                padding: 14px;
+                font-size: 14px;
+                letter-spacing: 3px;
+            }
+
+            .result-section {
+                padding: 16px;
+            }
+
+            .gua-symbol-bold {
+                font-size: 32px;
+            }
+
+            .gua-name {
+                font-size: 20px;
+            }
+
+            .summary-text {
+                font-size: 13px;
+                line-height: 1.9;
+            }
+
+            .nav-buttons {
+                gap: 10px;
+            }
+        }
+
+        @media (max-width: 360px) {
+            .container {
+                padding: 12px;
+            }
+
+            .header h1 {
+                font-size: 20px;
+                letter-spacing: 4px;
+            }
+
+            .gua-symbol-bold {
+                font-size: 28px;
+            }
+
+            .gua-name {
+                font-size: 18px;
+            }
+
+            .summary-title {
+                font-size: 12px;
+                letter-spacing: 3px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>一拍起卦</h1>
+        </div>
+
+        <div id="upload-view">
+            <div class="upload-area">
+                <div class="upload-box" id="upload-box">
+                    <div class="upload-icon">☯︎</div>
+                    <div class="upload-text">上传照片起卦</div>
+                    <div class="upload-hint">点击选择或拖拽照片</div>
+                    <img id="photo-preview" alt="照片预览">
+                </div>
+                <input type="file" id="file-input" accept="image/*">
+            </div>
+
+            <div class="action-area">
+                <button class="btn btn-primary" id="divine-btn" disabled>开 始 起 卦</button>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">卦象推演中...</div>
+        </div>
+
+        <div class="result-area" id="result-area">
+            <div class="result-section" id="ben-gua-section">
+                <div class="gua-header-center">
+                    <div class="gua-symbol-bold" id="ben-symbol">☰☰</div>
+                    <div class="gua-name" id="ben-name">乾为天</div>
+                    <div class="gua-trigrams" id="ben-trigrams">上乾 下乾</div>
+                </div>
+            </div>
+
+            <div class="summary-box">
+                <div class="summary-title">解 读</div>
+                <div class="summary-text" id="summary-text"></div>
+            </div>
+
+            <div class="divider">— ☯︎ —</div>
+
+            <div class="nav-buttons">
+                <button class="btn btn-secondary" id="back-btn">返 回</button>
+                <button class="btn btn-primary" id="retry-btn">再 占 一 卦</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let guaData = [];
+        let yaoData = [];
+        let currentPhotoData = null;
+        let currentResult = null;
+
+        const uploadBox = document.getElementById('upload-box');
+        const fileInput = document.getElementById('file-input');
+        const photoPreview = document.getElementById('photo-preview');
+        const divineBtn = document.getElementById('divine-btn');
+        const uploadView = document.getElementById('upload-view');
+        const loading = document.getElementById('loading');
+        const resultArea = document.getElementById('result-area');
+        const backBtn = document.getElementById('back-btn');
+        const retryBtn = document.getElementById('retry-btn');
+
+        async function loadData() {
+            try {
+                const [guaRes, yaoRes] = await Promise.all([
+                    fetch('guadata.json'),
+                    fetch('yaodata.json')
+                ]);
+                guaData = await guaRes.json();
+                yaoData = await yaoRes.json();
+            } catch (e) {
+                console.error('加载数据失败:', e);
+            }
+        }
+
+        uploadBox.addEventListener('click', () => fileInput.click());
+
+        uploadBox.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadBox.style.borderColor = '#555';
+        });
+
+        uploadBox.addEventListener('dragleave', () => {
+            uploadBox.style.borderColor = '#333';
+        });
+
+        uploadBox.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadBox.style.borderColor = '#333';
+            const files = e.dataTransfer.files;
+            if (files.length > 0 && files[0].type.startsWith('image/')) {
+                handleFile(files[0]);
+            }
+        });
+
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFile(e.target.files[0]);
+            }
+        });
+
+        function handleFile(file) {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                currentPhotoData = e.target.result;
+                photoPreview.src = currentPhotoData;
+                uploadBox.classList.add('has-image');
+                divineBtn.disabled = false;
+            };
+            reader.readAsDataURL(file);
+        }
+
+        divineBtn.addEventListener('click', () => {
+            if (currentPhotoData) {
+                performDivination(currentPhotoData);
+            }
+        });
+
+        backBtn.addEventListener('click', () => {
+            resultArea.classList.remove('active');
+            uploadView.style.display = 'block';
+        });
+
+        retryBtn.addEventListener('click', () => {
+            resultArea.classList.remove('active');
+            uploadView.style.display = 'block';
+            resetUpload();
+        });
+
+        function resetUpload() {
+            currentPhotoData = null;
+            photoPreview.src = '';
+            uploadBox.classList.remove('has-image');
+            divineBtn.disabled = true;
+            fileInput.value = '';
+        }
+
+        async function performDivination(photoData) {
+            uploadView.style.display = 'none';
+            loading.classList.add('active');
+
+            try {
+                const T = Math.floor(Date.now() / 1000);
+                const ImgSum = await calculateImgSum(photoData);
+                const result = calculateGua(T, ImgSum);
+                currentResult = result;
+                displayResult(result);
+            } catch (e) {
+                console.error('起卦失败:', e);
+            }
+
+            loading.classList.remove('active');
+            resultArea.classList.add('active');
+        }
+
+        function calculateImgSum(dataUrl) {
+            return new Promise((resolve) => {
+                const img = new Image();
+                img.onload = () => {
+                    const canvas = document.createElement('canvas');
+                    canvas.width = 32;
+                    canvas.height = 32;
+                    const ctx = canvas.getContext('2d');
+                    ctx.drawImage(img, 0, 0, 32, 32);
+                    const imageData = ctx.getImageData(0, 0, 32, 32);
+                    let sum = 0;
+                    for (let i = 0; i < imageData.data.length; i += 4) {
+                        const gray = Math.round(imageData.data[i] * 0.299 + imageData.data[i + 1] * 0.587 + imageData.data[i + 2] * 0.114);
+                        sum += gray;
+                    }
+                    resolve(sum);
+                };
+                img.src = dataUrl;
+            });
+        }
+
+        const trigramByCode = { 1: '乾', 2: '兑', 3: '离', 4: '震', 5: '巽', 6: '坎', 7: '艮', 8: '坤' };
+
+        function calculateGua(T, ImgSum) {
+            const lowerCode = (T % 8) + 1;
+            const upperCode = ((T + ImgSum) % 8) + 1;
+            const changingIdx = ImgSum % 6;
+
+            const lowerName = trigramByCode[lowerCode];
+            const upperName = trigramByCode[upperCode];
+
+            const lowerLines = trigramLines(lowerName);
+            const upperLines = trigramLines(upperName);
+            const benGuaLines = lowerLines.concat(upperLines);
+
+            const changingIdxMap = [5, 0, 1, 2, 3, 4];
+            const changingYaos = [changingIdxMap[changingIdx]];
+            const bianGuaLines = benGuaLines.map((v, i) =>
+                changingYaos.includes(i) ? (v === 1 ? 0 : 1) : v
+            );
+
+            const benGua = guaData.find(g => g.upper_trigram === upperName && g.lower_trigram === lowerName);
+            const bianGua = bianGuaLines.some((v, i) => v !== benGuaLines[i])
+                ? guaData.find(g => g.upper_trigram === trigramLinesName(bianGuaLines.slice(3, 6)) && g.lower_trigram === trigramLinesName(bianGuaLines.slice(0, 3)))
+                : benGua;
+
+            const huGuaLines = [
+                benGuaLines[2], benGuaLines[3], benGuaLines[4],
+                benGuaLines[1], benGuaLines[2], benGuaLines[3]
+            ];
+            const huGua = guaData.find(g => g.upper_trigram === trigramLinesName(huGuaLines.slice(3, 6)) && g.lower_trigram === trigramLinesName(huGuaLines.slice(0, 3)));
+
+            const benYaos = yaoData.filter(y => y.gua_id === benGua.id);
+            const changingYaoDetails = changingYaos.map(idx => {
+                const yaoPos = getYaoPositionName(idx, benGuaLines[idx] === 1);
+                return benYaos.find(y => y.yao_position === yaoPos);
+            }).filter(Boolean);
+
+            return {
+                benGua,
+                huGua,
+                bianGua,
+                benGuaLines,
+                changingYaos,
+                benYaos,
+                changingYaoDetails,
+                hasChanging: true
+            };
+        }
+
+        function trigramLines(name) {
+            const map = {
+                '乾': [1, 1, 1], '兑': [1, 1, 0], '离': [1, 0, 1], '震': [1, 0, 0],
+                '巽': [0, 1, 1], '坎': [0, 1, 0], '艮': [0, 0, 1], '坤': [0, 0, 0]
+            };
+            return map[name] || [1, 1, 1];
+        }
+
+        function trigramLinesName(lines) {
+            const val = lines[0] * 4 + lines[1] * 2 + lines[2];
+            const names = { 7: '乾', 6: '兑', 5: '离', 4: '震', 3: '巽', 2: '坎', 1: '艮', 0: '坤' };
+            return names[val] || '乾';
+        }
+
+        function getYaoPositionName(index, isYang) {
+            const positions = ['初', '二', '三', '泗', '五', '上'];
+            return (index === 0 || index === 5) ? positions[index] + (isYang ? '九' : '六') : (isYang ? '九' : '六') + positions[index];
+        }
+
+        function displayResult(result) {
+            const { benGua, huGua, bianGua, changingYaoDetails, hasChanging } = result;
+
+            document.getElementById('ben-symbol').textContent = benGua.symbol;
+            document.getElementById('ben-name').textContent = benGua.name;
+            document.getElementById('ben-trigrams').textContent = `上${benGua.upper_trigram} 下${benGua.lower_trigram}`;
+
+            const changingTips = changingYaoDetails.map(y => y.interpretation).join('；');
+
+            const clean = s => s.replace(/[。，；]$/, '');
+            let summary;
+            if (hasChanging) {
+                summary = `现在你处于${clean(benGua.modern_summary)}，推进过程之中会经历${clean(huGua.modern_summary)}，长期发展之后，事态最终走向${clean(bianGua.modern_summary)}。核心建议：${changingTips}`;
+            } else {
+                summary = `目前整体局面趋于稳定，短期不会发生重大变化，潜藏问题会缓慢发酵，适合维持现状、静观其变。当前状态为${clean(benGua.modern_summary)}，内在暗藏${clean(huGua.modern_summary)}。`;
+            }
+
+            document.getElementById('summary-text').textContent = summary;
+        }
+
+        loadData();
+    </script>
+</body>
+</html>

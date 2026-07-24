@@ -1,0 +1,3458 @@
+[
+  {
+    "id": 1,
+    "gua_id": 1,
+    "gua_name": "乾为天",
+    "yao_position": "初九",
+    "yao_text": "潜龙勿用。",
+    "translation": "龙潜伏在水底，暂时不要施展作为。",
+    "interpretation": "现在实力不足，先默默积累，别急着表现自己。"
+  },
+  {
+    "id": 2,
+    "gua_id": 1,
+    "gua_name": "乾为天",
+    "yao_position": "九二",
+    "yao_text": "见龙在田，利见大人。",
+    "translation": "龙出现在田野，可以主动去结识贵人。",
+    "interpretation": "可以适度展示能力，主动链接前辈获取机会。"
+  },
+  {
+    "id": 3,
+    "gua_id": 1,
+    "gua_name": "乾为天",
+    "yao_position": "九三",
+    "yao_text": "君子终日乾乾，夕惕若厉，无咎。",
+    "translation": "整日勤勉谨慎，夜晚依旧心存警惕。",
+    "interpretation": "持续保持紧绷自律，不要稍有成绩就放松警惕。"
+  },
+  {
+    "id": 4,
+    "gua_id": 1,
+    "gua_name": "乾为天",
+    "yao_position": "九泗",
+    "yao_text": "或跃在渊，无咎。",
+    "translation": "伺机而动，可进可退，不必强行抉择。",
+    "interpretation": "机会来了可以尝试突破，不合适退回蓄力也没关系。"
+  },
+  {
+    "id": 5,
+    "gua_id": 1,
+    "gua_name": "乾为天",
+    "yao_position": "九五",
+    "yao_text": "飞龙在天，利见大人。",
+    "translation": "龙飞上天，大展宏图，正是施展抱负之时。",
+    "interpretation": "时机完全成熟，放心大胆全力推进目标。"
+  },
+  {
+    "id": 6,
+    "gua_id": 1,
+    "gua_name": "乾为天",
+    "yao_position": "上九",
+    "yao_text": "亢龙有悔。",
+    "translation": "飞得过高，物极必反，终将心生悔意。",
+    "interpretation": "不要做到极致之后还贪进，懂得见好就收。"
+  },
+  {
+    "id": 7,
+    "gua_id": 2,
+    "gua_name": "坤为地",
+    "yao_position": "初六",
+    "yao_text": "履霜，坚冰至。",
+    "translation": "踩到薄霜，预示寒冬冰雪即将到来。",
+    "interpretation": "看见微小信号就要预判风险，提前做好准备。"
+  },
+  {
+    "id": 8,
+    "gua_id": 2,
+    "gua_name": "坤为地",
+    "yao_position": "六二",
+    "yao_text": "直方大，不习无不利。",
+    "translation": "正直方正格局开阔，即便不刻意学习也行事无碍。",
+    "interpretation": "保持坦荡正直，不用刻意钻营，路自然会走通。"
+  },
+  {
+    "id": 9,
+    "gua_id": 2,
+    "gua_name": "坤为地",
+    "yao_position": "六三",
+    "yao_text": "含章可贞。或从王事，无成有终。",
+    "translation": "蕴藏才华不露锋芒，辅佐行事不求独占功劳。",
+    "interpretation": "可以配合别人做事，不争头功，把事情稳妥收尾。"
+  },
+  {
+    "id": 10,
+    "gua_id": 2,
+    "gua_name": "坤为地",
+    "yao_position": "六泗",
+    "yao_text": "括囊，无咎无誉。",
+    "translation": "收紧口袋，缄口不言，不求赞誉，避开灾祸。",
+    "interpretation": "少说无关的话，不站队不表态，低调避祸。"
+  },
+  {
+    "id": 11,
+    "gua_id": 2,
+    "gua_name": "坤为地",
+    "yao_position": "六五",
+    "yao_text": "黄裳，元吉。",
+    "translation": "身着黄色下裳，居中守正，大吉。",
+    "interpretation": "居中调和，保持谦逊柔和，不用强势出头。"
+  },
+  {
+    "id": 12,
+    "gua_id": 2,
+    "gua_name": "坤为地",
+    "yao_position": "上六",
+    "yao_text": "龙战于野，其血玄黄。",
+    "translation": "阴阳交战，两败俱伤，矛盾彻底爆发。",
+    "interpretation": "硬碰硬对抗只会两败俱伤，尽量避免正面冲突。"
+  },
+  {
+    "id": 13,
+    "gua_id": 3,
+    "gua_name": "水雷屯",
+    "yao_position": "初九",
+    "yao_text": "磐桓，利居贞，利建侯。",
+    "translation": "徘徊不前，宜安守正道，打好根基。",
+    "interpretation": "起步阶段不要急着往前冲，先把底层基础搭建稳固。"
+  },
+  {
+    "id": 14,
+    "gua_id": 3,
+    "gua_name": "水雷屯",
+    "yao_position": "六二",
+    "yao_text": "屯如邅如，乘马班如。匪寇婚媾，女子贞不字，十年乃字。",
+    "translation": "前路盘旋难行，事情阻滞，需要耐心长期等待时机。",
+    "interpretation": "这件事短期很难落地，要有长期耗下去的心理准备。"
+  },
+  {
+    "id": 15,
+    "gua_id": 3,
+    "gua_name": "水雷屯",
+    "yao_position": "六三",
+    "yao_text": "即鹿无虞，惟入于林中，君子几不如舍，往吝。",
+    "translation": "追逐猎物没有向导，贸然深入只会陷入困境，不如放弃。",
+    "interpretation": "没有充分准备不要盲目行动，及时止损放弃不切实际的想法。"
+  },
+  {
+    "id": 16,
+    "gua_id": 3,
+    "gua_name": "水雷屯",
+    "yao_position": "六泗",
+    "yao_text": "乘马班如，求婚媾，往吉，无不利。",
+    "translation": "骑马来回徘徊，主动前去寻求合作，前往吉祥。",
+    "interpretation": "主动寻找合作伙伴，不要独自硬扛难题。"
+  },
+  {
+    "id": 17,
+    "gua_id": 3,
+    "gua_name": "水雷屯",
+    "yao_position": "九五",
+    "yao_text": "屯其膏，小贞吉，大贞凶。",
+    "translation": "积蓄恩泽，小事坚守吉祥，大举行动凶险。",
+    "interpretation": "适合小规模试错积累，不适合一次性投入做大项目。"
+  },
+  {
+    "id": 18,
+    "gua_id": 3,
+    "gua_name": "水雷屯",
+    "yao_position": "上六",
+    "yao_text": "乘马班如，泣血涟如。",
+    "translation": "徘徊不前，伤心落泪，陷入绝望困顿。",
+    "interpretation": "一直原地内耗只会持续消耗自己，该放弃就要果断抽身。"
+  },
+  {
+    "id": 19,
+    "gua_id": 4,
+    "gua_name": "山水蒙",
+    "yao_position": "初六",
+    "yao_text": "发蒙，利用刑人，用说桎梏，以往吝。",
+    "translation": "开启启蒙，先树立规矩约束，贸然前行会有遗憾。",
+    "interpretation": "刚开始学习做事先建立规则，不要放任自由野蛮生长。"
+  },
+  {
+    "id": 20,
+    "gua_id": 4,
+    "gua_name": "山水蒙",
+    "yao_position": "九二",
+    "yao_text": "包蒙吉，纳妇吉，子克家。",
+    "translation": "包容蒙昧之人，心胸宽厚可以承担责任。",
+    "interpretation": "包容身边不成熟的伙伴，慢慢引导，不要苛责。"
+  },
+  {
+    "id": 21,
+    "gua_id": 4,
+    "gua_name": "山水蒙",
+    "yao_position": "六三",
+    "yao_text": "勿用取女，见金夫，不有躬，无攸利。",
+    "translation": "不要迎娶见利忘义的女子，自身不能守住操守，难有收益。",
+    "interpretation": "不要被短期利益诱惑，守住自己的底线原则。"
+  },
+  {
+    "id": 22,
+    "gua_id": 4,
+    "gua_name": "山水蒙",
+    "yao_position": "六泗",
+    "yao_text": "困蒙，吝。",
+    "translation": "困于蒙昧无知之中，处境艰难。",
+    "interpretation": "长期封闭自己不去学习，会越来越跟不上局势。"
+  },
+  {
+    "id": 23,
+    "gua_id": 4,
+    "gua_name": "山水蒙",
+    "yao_position": "六五",
+    "yao_text": "童蒙，吉。",
+    "translation": "像孩童一样虚心求教，吉祥。",
+    "interpretation": "放下自以为是，保持空杯心态去请教别人。"
+  },
+  {
+    "id": 24,
+    "gua_id": 4,
+    "gua_name": "山水蒙",
+    "yao_position": "上九",
+    "yao_text": "击蒙，不利为寇，利御寇。",
+    "translation": "敲打启蒙，不要主动攻击，用来抵御过失。",
+    "interpretation": "适当提醒指正别人可以，但不要主动挑事攻击他人。"
+  },
+  {
+    "id": 25,
+    "gua_id": 5,
+    "gua_name": "水天需",
+    "yao_position": "初九",
+    "yao_text": "需于郊，利用恒，无咎。",
+    "translation": "在郊外等待，保持恒心，没有过失。",
+    "interpretation": "在远处观望等待，沉住气，不要着急出手。"
+  },
+  {
+    "id": 26,
+    "gua_id": 5,
+    "gua_name": "水天需",
+    "yao_position": "九二",
+    "yao_text": "需于沙，小有言，终吉。",
+    "translation": "在沙滩等待，会受到一些非议，最终吉祥。",
+    "interpretation": "等待过程里难免被人闲话，不用在意，结局向好。"
+  },
+  {
+    "id": 27,
+    "gua_id": 5,
+    "gua_name": "水天需",
+    "yao_position": "九三",
+    "yao_text": "需于泥，致寇至。",
+    "translation": "在泥沼之中等待，容易招来麻烦祸事。",
+    "interpretation": "离风险太近，耐心等待同时要防备意外麻烦找上门。"
+  },
+  {
+    "id": 28,
+    "gua_id": 5,
+    "gua_name": "水天需",
+    "yao_position": "六泗",
+    "yao_text": "需于血，出自穴。",
+    "translation": "在险境血泊之中等待，从困境洞穴脱身。",
+    "interpretation": "身处被动险境，先保全自身，等待机会脱身。"
+  },
+  {
+    "id": 29,
+    "gua_id": 5,
+    "gua_name": "水天需",
+    "yao_position": "九五",
+    "yao_text": "需于酒食，贞吉。",
+    "translation": "安心饮食等待，守正吉祥。",
+    "interpretation": "安心蓄力休整，养好状态，时机到了自然可以行动。"
+  },
+  {
+    "id": 30,
+    "gua_id": 5,
+    "gua_name": "水天需",
+    "yao_position": "上六",
+    "yao_text": "入于穴，有不速之客三人来，敬之终吉。",
+    "translation": "落入洞穴困境，有访客不请自来，恭敬对待可得吉祥。",
+    "interpretation": "困境之中会有人主动来帮你，待人谦和不要傲慢。"
+  },
+  {
+    "id": 31,
+    "gua_id": 6,
+    "gua_name": "天水讼",
+    "yao_position": "初六",
+    "yao_text": "不永所事，小有言，终吉。",
+    "translation": "不要长久纠缠争端，虽有小口舌，结局吉祥。",
+    "interpretation": "不要一直纠结争吵对错，小事尽快翻篇。"
+  },
+  {
+    "id": 32,
+    "gua_id": 6,
+    "gua_name": "天水讼",
+    "yao_position": "九二",
+    "yao_text": "不克讼，归而逋，其邑人三百户，无眚。",
+    "translation": "官司败诉，及时退回躲避，低调自保无灾。",
+    "interpretation": "争辩争不过对方，及时退让止损，不要死磕到底。"
+  },
+  {
+    "id": 33,
+    "gua_id": 6,
+    "gua_name": "天水讼",
+    "yao_position": "六三",
+    "yao_text": "食旧德，贞厉，终吉。或从王事，无成。",
+    "translation": "依靠旧日恩德安稳度日，守正虽有波折，终获吉祥。",
+    "interpretation": "守住自己原有资源优势，不要强行去开拓新战场。"
+  },
+  {
+    "id": 34,
+    "gua_id": 6,
+    "gua_name": "天水讼",
+    "yao_position": "九泗",
+    "yao_text": "不克讼，复即命，渝安贞，吉。",
+    "translation": "争辩无法取胜，回归本分，改变心态安守正道则吉。",
+    "interpretation": "争不出结果就放下执念，回归原本该做的事。"
+  },
+  {
+    "id": 35,
+    "gua_id": 6,
+    "gua_name": "天水讼",
+    "yao_position": "九五",
+    "yao_text": "讼，元吉。",
+    "translation": "秉公断讼，大吉。",
+    "interpretation": "遇到矛盾找中立第三方评判，不要自己私下硬刚。"
+  },
+  {
+    "id": 36,
+    "gua_id": 6,
+    "gua_name": "天水讼",
+    "yao_position": "上九",
+    "yao_text": "或锡之鞶带，终朝三褫之。",
+    "translation": "就算侥幸得到赏赐，一天之内也会被多次剥夺。",
+    "interpretation": "靠争执赢来的利益不会长久，迟早会失去。"
+  },
+  {
+    "id": 37,
+    "gua_id": 7,
+    "gua_name": "地水师",
+    "yao_position": "初六",
+    "yao_text": "师出以律，否臧凶。",
+    "translation": "出兵必须严明军纪，纪律崩坏必有凶险。",
+    "interpretation": "团队做事先定好规则，没有制度一定会出乱子。"
+  },
+  {
+    "id": 38,
+    "gua_id": 7,
+    "gua_name": "地水师",
+    "yao_position": "九二",
+    "yao_text": "在师中吉，无咎，王三锡命。",
+    "translation": "身在军中主持大局，吉祥无过，多次得到信任。",
+    "interpretation": "作为负责人要居中统筹，扛下责任，获得大家信任。"
+  },
+  {
+    "id": 39,
+    "gua_id": 7,
+    "gua_name": "地水师",
+    "yao_position": "六三",
+    "yao_text": "师或舆尸，凶。",
+    "translation": "军队可能载尸大败，凶险。",
+    "interpretation": "用人决策出错，团队会出现重大损失，谨慎用人。"
+  },
+  {
+    "id": 40,
+    "gua_id": 7,
+    "gua_name": "地水师",
+    "yao_position": "六泗",
+    "yao_text": "师左次，无咎。",
+    "translation": "军队暂时撤退驻扎，没有过失。",
+    "interpretation": "局势不利就暂时后撤休整，不必硬打。"
+  },
+  {
+    "id": 41,
+    "gua_id": 7,
+    "gua_name": "地水师",
+    "yao_position": "六五",
+    "yao_text": "田有禽，利执言，无咎。长子帅师，弟子舆尸，贞凶。",
+    "translation": "打猎获得猎物，仗义执言无错。委任靠谱主事，任用小人会惨败。",
+    "interpretation": "一定要交给稳重负责人主事，不要让外行胡乱指挥。"
+  },
+  {
+    "id": 42,
+    "gua_id": 7,
+    "gua_name": "地水师",
+    "yao_position": "上六",
+    "yao_text": "大君有命，开国承家，小人勿用。",
+    "translation": "君王颁布封赏，论功行赏，不可任用小人。",
+    "interpretation": "事成之后论功分配，不要重用投机的小人。"
+  },
+  {
+    "id": 43,
+    "gua_id": 8,
+    "gua_name": "水地比",
+    "yao_position": "初六",
+    "yao_text": "有孚比之，无咎。有孚盈缶，终来有他，吉。",
+    "translation": "心怀诚信去亲近结盟，没有过错，诚意充足，终会迎来外援。",
+    "interpretation": "带着真诚与人合作，时间久了自然会吸引同频伙伴。"
+  },
+  {
+    "id": 44,
+    "gua_id": 8,
+    "gua_name": "水地比",
+    "yao_position": "六二",
+    "yao_text": "比之自内，贞吉。",
+    "translation": "发自内心亲近团结，坚守正道吉祥。",
+    "interpretation": "发自内心认可再去合作，不要表面虚与委蛇。"
+  },
+  {
+    "id": 45,
+    "gua_id": 8,
+    "gua_name": "水地比",
+    "yao_position": "六三",
+    "yao_text": "比之匪人。",
+    "translation": "结交品行不端之人，会惹来麻烦。",
+    "interpretation": "选错合作对象，及时止损远离人品不行的人。"
+  },
+  {
+    "id": 46,
+    "gua_id": 8,
+    "gua_name": "水地比",
+    "yao_position": "六泗",
+    "yao_text": "外比之，贞吉。",
+    "translation": "向外结交贤能之人，守正吉祥。",
+    "interpretation": "主动向外链接优秀的伙伴，拓展自己的圈子。"
+  },
+  {
+    "id": 47,
+    "gua_id": 8,
+    "gua_name": "水地比",
+    "yao_position": "九五",
+    "yao_text": "显比，王用三驱，失前禽。邑人不诫，吉。",
+    "translation": "光明正大团结众人，取舍有度，不刻意强求，吉祥。",
+    "interpretation": "光明坦荡交朋友，不强求别人一定要跟你同行。"
+  },
+  {
+    "id": 48,
+    "gua_id": 8,
+    "gua_name": "水地比",
+    "yao_position": "上六",
+    "yao_text": "比之无首，凶。",
+    "translation": "想要结盟却没有领头方向，凶险。",
+    "interpretation": "想要合作但是没有目标规划，盲目抱团只会出问题。"
+  },
+  {
+    "id": 49,
+    "gua_id": 9,
+    "gua_name": "风天小畜",
+    "yao_position": "初九",
+    "yao_text": "复自道，何其咎，吉。",
+    "translation": "回归自己原本道路，哪里会有过失，吉祥。",
+    "interpretation": "回到自己熟悉的赛道做事，不要盲目跟风新项目。"
+  },
+  {
+    "id": 50,
+    "gua_id": 9,
+    "gua_name": "风天小畜",
+    "yao_position": "九二",
+    "yao_text": "牵复，吉。",
+    "translation": "相互牵引一同回归正道，吉祥。",
+    "interpretation": "有人同行一起调整方向，互相扶持稳步前行。"
+  },
+  {
+    "id": 51,
+    "gua_id": 9,
+    "gua_name": "风天小畜",
+    "yao_position": "九三",
+    "yao_text": "舆说辐，夫妻反目。",
+    "translation": "车轮脱离车轴，夫妻产生矛盾翻脸。",
+    "interpretation": "配合出现裂痕，合作伙伴之间容易产生分歧。"
+  },
+  {
+    "id": 52,
+    "gua_id": 9,
+    "gua_name": "风天小畜",
+    "yao_position": "六泗",
+    "yao_text": "有孚，血去惕出，无咎。",
+    "translation": "心怀诚信，忧患恐惧消散，没有过失。",
+    "interpretation": "拿出诚意化解猜忌，解除彼此之间的防备。"
+  },
+  {
+    "id": 53,
+    "gua_id": 9,
+    "gua_name": "风天小畜",
+    "yao_position": "九五",
+    "yao_text": "有孚挛如，富以其邻。",
+    "translation": "诚信紧密相连，带动伙伴一起获益。",
+    "interpretation": "守住诚信，带着身边伙伴共同获得收益。"
+  },
+  {
+    "id": 54,
+    "gua_id": 9,
+    "gua_name": "风天小畜",
+    "yao_position": "上九",
+    "yao_text": "既雨既处，尚德载。妇贞厉，月几望，君子征凶。",
+    "translation": "雨已经降下，积蓄已满，适合积累德行。妇人守正有危，月圆将近，贸然前行有凶险。",
+    "interpretation": "积累已经到达瓶颈，不要再继续扩张，守住现有成果。"
+  },
+  {
+    "id": 55,
+    "gua_id": 10,
+    "gua_name": "天泽履",
+    "yao_position": "初九",
+    "yao_text": "素履，往无咎。",
+    "translation": "朴素本分行事，前行没有过失。",
+    "interpretation": "踏踏实实做事，不要花里胡哨投机取巧。"
+  },
+  {
+    "id": 56,
+    "gua_id": 10,
+    "gua_name": "天泽履",
+    "yao_position": "九二",
+    "yao_text": "履道坦坦，幽人贞吉。",
+    "translation": "行走在平坦大道，内心恬淡安守则吉。",
+    "interpretation": "稳住心态走正道，不用急于求成。"
+  },
+  {
+    "id": 57,
+    "gua_id": 10,
+    "gua_name": "天泽履",
+    "yao_position": "六三",
+    "yao_text": "眇能视，跛能履，履虎尾，咥人，凶。武人为于大君。",
+    "translation": "眼盲还想看清，脚跛还要行走，踩到虎尾被咬伤，凶险。",
+    "interpretation": "能力不足不要强行承担超出自己的重任，容易翻车。"
+  },
+  {
+    "id": 58,
+    "gua_id": 10,
+    "gua_name": "天泽履",
+    "yao_position": "九泗",
+    "yao_text": "履虎尾，愬愬，终吉。",
+    "translation": "踩到虎尾，内心警惕惶恐，最终吉祥。",
+    "interpretation": "身处危险边界时刻保持警惕，谨慎行事可避险。"
+  },
+  {
+    "id": 59,
+    "gua_id": 10,
+    "gua_name": "天泽履",
+    "yao_position": "九五",
+    "yao_text": "夬履，贞厉。",
+    "translation": "果断强硬行事，守正也暗藏危机。",
+    "interpretation": "做事太过刚硬决绝，容易激化矛盾，留一点余地。"
+  },
+  {
+    "id": 60,
+    "gua_id": 10,
+    "gua_name": "天泽履",
+    "yao_position": "上九",
+    "yao_text": "视履考祥，其旋元吉。",
+    "translation": "回顾过往行事，考察吉凶得失，回转反思大吉。",
+    "interpretation": "做完一件事后复盘得失，总结经验再继续往前走。"
+  },
+  {
+    "id": 61,
+    "gua_id": 11,
+    "gua_name": "地天泰",
+    "yao_position": "初九",
+    "yao_text": "拔茅茹，以其汇，征吉。",
+    "translation": "拔茅草连带同类一起拔出，前行吉祥。",
+    "interpretation": "做事连带梳理周边资源，顺势推进更容易成功。"
+  },
+  {
+    "id": 62,
+    "gua_id": 11,
+    "gua_name": "地天泰",
+    "yao_position": "九二",
+    "yao_text": "包荒，用冯河，不遐遗，朋亡，得尚于中行。",
+    "translation": "包容广阔，可徒步渡河，不遗忘远方伙伴，不结党营私，守中道而行。",
+    "interpretation": "心胸开阔包容不同意见，做事秉持中立公道。"
+  },
+  {
+    "id": 63,
+    "gua_id": 11,
+    "gua_name": "地天泰",
+    "yao_position": "九三",
+    "yao_text": "无平不陂，无往不复。艰贞无咎。勿恤其孚，于食有福。",
+    "translation": "没有永远平坦的路，事物往复循环。艰难守正无过，守住信心，自有福报。",
+    "interpretation": "顺境之中也要明白盛衰循环，不要得意忘形。"
+  },
+  {
+    "id": 64,
+    "gua_id": 11,
+    "gua_name": "地天泰",
+    "yao_position": "六泗",
+    "yao_text": "翩翩，不富以其邻，不戒以孚。",
+    "translation": "轻飘行事，带动伙伴，不用戒备彼此，心怀坦诚。",
+    "interpretation": "局面顺畅之时坦诚沟通，不用互相提防。"
+  },
+  {
+    "id": 65,
+    "gua_id": 11,
+    "gua_name": "地天泰",
+    "yao_position": "六五",
+    "yao_text": "帝乙归妹，以祉元吉。",
+    "translation": "帝王嫁妹，带来福泽，大吉。",
+    "interpretation": "借助联姻合作，互利共赢，获得长久安稳。"
+  },
+  {
+    "id": 66,
+    "gua_id": 11,
+    "gua_name": "地天泰",
+    "yao_position": "上六",
+    "yao_text": "城复于隍，勿用师。自邑告命，贞吝。",
+    "translation": "城墙倒塌到壕沟，不可动用武力，内部颁布政令，守正仍有遗憾。",
+    "interpretation": "好运已经走到尽头，局势开始衰败，不要再大举投入。"
+  },
+  {
+    "id": 67,
+    "gua_id": 12,
+    "gua_name": "天地否",
+    "yao_position": "初六",
+    "yao_text": "拔茅茹，以其汇，贞吉，亨。",
+    "translation": "拔茅草连带同类，坚守正道吉祥。",
+    "interpretation": "困境之中团结志同道合的人，守住本心等待转机。"
+  },
+  {
+    "id": 68,
+    "gua_id": 12,
+    "gua_name": "天地否",
+    "yao_position": "六二",
+    "yao_text": "包承，小人吉，大人否，亨。",
+    "translation": "包容奉承，小人得利，君子闭塞隐忍，静待时机。",
+    "interpretation": "环境大环境不好，不要高调做事，低调隐忍自保。"
+  },
+  {
+    "id": 69,
+    "gua_id": 12,
+    "gua_name": "天地否",
+    "yao_position": "六三",
+    "yao_text": "包羞。",
+    "translation": "包容藏纳羞耻过错。",
+    "interpretation": "很多不合理的事情只能暂时隐忍，无力立刻改变现状。"
+  },
+  {
+    "id": 70,
+    "gua_id": 12,
+    "gua_name": "天地否",
+    "yao_position": "九泗",
+    "yao_text": "有命无咎，畴离祉。",
+    "translation": "顺应天命行事无过错，同伴一同获得福泽。",
+    "interpretation": "局势即将松动，抓住机会和伙伴一起走出困局。"
+  },
+  {
+    "id": 71,
+    "gua_id": 12,
+    "gua_name": "天地否",
+    "yao_position": "九五",
+    "yao_text": "休否，大人吉。其亡其亡，系于苞桑。",
+    "translation": "终止闭塞，君子可得吉祥。时刻心存危惧，如同系于柔弱桑树之上。",
+    "interpretation": "困境即将结束，但依旧要有危机意识，不能放松警惕。"
+  },
+  {
+    "id": 72,
+    "gua_id": 12,
+    "gua_name": "天地否",
+    "yao_position": "上九",
+    "yao_text": "倾否，先否后喜。",
+    "translation": "彻底推翻闭塞局面，先困顿而后欢喜。",
+    "interpretation": "坏局面彻底走到尽头，迎来转折，苦尽甘来。"
+  },
+  {
+    "id": 73,
+    "gua_id": 13,
+    "gua_name": "天火同人",
+    "yao_position": "初九",
+    "yao_text": "同人于门，无咎。",
+    "translation": "出门与人同心交往，没有过失。",
+    "interpretation": "敞开心态主动与人交流合作，不要封闭自己。"
+  },
+  {
+    "id": 74,
+    "gua_id": 13,
+    "gua_name": "天火同人",
+    "yao_position": "六二",
+    "yao_text": "同人于宗，吝。",
+    "translation": "只和宗族内部抱团，格局狭隘有遗憾。",
+    "interpretation": "只跟熟人小圈子合作，格局太小错失外部机会。"
+  },
+  {
+    "id": 75,
+    "gua_id": 13,
+    "gua_name": "天火同人",
+    "yao_position": "九三",
+    "yao_text": "伏戎于莽，升其高陵，三岁不兴。",
+    "translation": "埋伏军队草丛，登高观望，多年不敢贸然开战。",
+    "interpretation": "暗中防备猜忌对方，僵持很久很难达成合作。"
+  },
+  {
+    "id": 76,
+    "gua_id": 13,
+    "gua_name": "天火同人",
+    "yao_position": "九泗",
+    "yao_text": "乘其墉，弗克攻，吉。",
+    "translation": "登上高墙，却不发动进攻，吉祥。",
+    "interpretation": "明明占据优势，却不咄咄逼人，留有余地更容易和解。"
+  },
+  {
+    "id": 77,
+    "gua_id": 13,
+    "gua_name": "天火同人",
+    "yao_position": "九五",
+    "yao_text": "同人，先号啕而后笑。大师克相遇。",
+    "translation": "同心之人先痛哭磨难，而后欢笑，大军相遇获得胜利。",
+    "interpretation": "合作前期历经波折矛盾，磨合之后才能齐心协力成事。"
+  },
+  {
+    "id": 78,
+    "gua_id": 13,
+    "gua_name": "天火同人",
+    "yao_position": "上九",
+    "yao_text": "同人于野，亨。",
+    "translation": "在旷野广阔之地同心相交，通达顺利。",
+    "interpretation": "跳出小圈子，广泛联结更多同频的人，格局打开。"
+  },
+  {
+    "id": 79,
+    "gua_id": 14,
+    "gua_name": "火天大有",
+    "yao_position": "初九",
+    "yao_text": "无交害，匪咎，艰则无咎。",
+    "translation": "没有交往带来的祸害，不算过错，常怀艰难之心可免祸。",
+    "interpretation": "刚开始收获的时候不要急着扩张，谨慎行事。"
+  },
+  {
+    "id": 80,
+    "gua_id": 14,
+    "gua_name": "火天大有",
+    "yao_position": "九二",
+    "yao_text": "大车以载，有攸往，无咎。",
+    "translation": "用大车承载收获，大胆前行，没有过失。",
+    "interpretation": "积累足够资源之后，可以稳步向外拓展布局。"
+  },
+  {
+    "id": 81,
+    "gua_id": 14,
+    "gua_name": "火天大有",
+    "yao_position": "九三",
+    "yao_text": "公用亨于天子，小人弗克。",
+    "translation": "公侯向天子献礼，小人无法承担重任。",
+    "interpretation": "获得成果之后要懂得回馈贵人，不可独吞利益。"
+  },
+  {
+    "id": 82,
+    "gua_id": 14,
+    "gua_name": "火天大有",
+    "yao_position": "九泗",
+    "yao_text": "匪其彭，无咎。",
+    "translation": "不过分张扬炫耀，没有过失。",
+    "interpretation": "就算赚到成果，也要低调收敛，切忌张扬炫耀。"
+  },
+  {
+    "id": 83,
+    "gua_id": 14,
+    "gua_name": "火天大有",
+    "yao_position": "六五",
+    "yao_text": "厥孚交如，威如，吉。",
+    "translation": "心怀诚信交往，保持威严分寸，吉祥。",
+    "interpretation": "与人合作真诚守信，同时守住边界，不要过度随和。"
+  },
+  {
+    "id": 84,
+    "gua_id": 14,
+    "gua_name": "火天大有",
+    "yao_position": "上九",
+    "yao_text": "自天祐之，吉无不利。",
+    "translation": "获得上天护佑，事事吉祥没有阻碍。",
+    "interpretation": "行善守正，做事顺应道义，自然一路顺遂。"
+  },
+  {
+    "id": 85,
+    "gua_id": 15,
+    "gua_name": "地山谦",
+    "yao_position": "初六",
+    "yao_text": "谦谦君子，用涉大川，吉。",
+    "translation": "谦而又谦的君子，可以渡过难关，吉祥。",
+    "interpretation": "始终保持谦卑姿态，再难的事也可以平稳渡过。"
+  },
+  {
+    "id": 86,
+    "gua_id": 15,
+    "gua_name": "地山谦",
+    "yao_position": "六二",
+    "yao_text": "鸣谦，贞吉。",
+    "translation": "名声在外依旧谦逊，守正吉祥。",
+    "interpretation": "就算有了名气，依旧低调谦和，不要恃才傲物。"
+  },
+  {
+    "id": 87,
+    "gua_id": 15,
+    "gua_name": "地山谦",
+    "yao_position": "九三",
+    "yao_text": "劳谦，君子有终，吉。",
+    "translation": "劳苦有功依旧谦逊，君子可以善始善终，吉祥。",
+    "interpretation": "辛苦做出成绩也不要居功自傲，长久走下去。"
+  },
+  {
+    "id": 88,
+    "gua_id": 15,
+    "gua_name": "地山谦",
+    "yao_position": "六泗",
+    "yao_text": "无不利，撝谦。",
+    "translation": "行事没有阻碍，发挥谦逊的美德。",
+    "interpretation": "无论顺境逆境，都保持谦和姿态，做事都会顺利。"
+  },
+  {
+    "id": 89,
+    "gua_id": 15,
+    "gua_name": "地山谦",
+    "yao_position": "六五",
+    "yao_text": "不富以其邻，利用侵伐，无不利。",
+    "translation": "不必靠掠夺周边致富，必要时果断出击，无往不利。",
+    "interpretation": "平时待人谦和，原则问题上也要果断强硬。"
+  },
+  {
+    "id": 90,
+    "gua_id": 15,
+    "gua_name": "地山谦",
+    "yao_position": "上六",
+    "yao_text": "鸣谦，利用行师，征邑国。",
+    "translation": "声名谦逊，可以出兵征讨平定内乱。",
+    "interpretation": "积攒足够口碑声望之后，再出手解决积压的矛盾。"
+  },
+  {
+    "id": 91,
+    "gua_id": 16,
+    "gua_name": "雷地豫",
+    "yao_position": "初六",
+    "yao_text": "鸣豫，凶。",
+    "translation": "自鸣得意享乐，凶险。",
+    "interpretation": "刚有点苗头就开始沾沾自喜，很容易乐极生悲。"
+  },
+  {
+    "id": 92,
+    "gua_id": 16,
+    "gua_name": "雷地豫",
+    "yao_position": "六二",
+    "yao_text": "介于石，不终日，贞吉。",
+    "translation": "操守坚如磐石，不用等到一天结束，及时醒悟守正吉祥。",
+    "interpretation": "发现苗头不对立刻止损，不要一直沉溺安逸。"
+  },
+  {
+    "id": 93,
+    "gua_id": 16,
+    "gua_name": "雷地豫",
+    "yao_position": "六三",
+    "yao_text": "盱豫，悔。迟有悔。",
+    "translation": "贪图享乐观望，心生悔恨，拖延下去悔恨更深。",
+    "interpretation": "一直拖延摆烂享受安逸，后面一定会追悔莫及。"
+  },
+  {
+    "id": 94,
+    "gua_id": 16,
+    "gua_name": "雷地豫",
+    "yao_position": "九泗",
+    "yao_text": "由豫，大有得，勿疑，朋盍簪。",
+    "translation": "带动众人一起安乐，大有收获，不必怀疑，伙伴会聚拢而来。",
+    "interpretation": "主动带动团队，凝聚人心，大家一起获得收益。"
+  },
+  {
+    "id": 95,
+    "gua_id": 16,
+    "gua_name": "雷地豫",
+    "yao_position": "六五",
+    "yao_text": "贞疾，恒不死。",
+    "translation": "长期守正防备隐患，虽有小病，不会危及根本。",
+    "interpretation": "看似安逸之下暗藏隐患，长期保持警惕，不会彻底崩盘。"
+  },
+  {
+    "id": 96,
+    "gua_id": 16,
+    "gua_name": "雷地豫",
+    "yao_position": "上六",
+    "yao_text": "冥豫，成有渝，无咎。",
+    "translation": "沉迷享乐，及时改变醒悟，没有过失。",
+    "interpretation": "已经沉溺安逸，及时调整改变，还来得及补救。"
+  },
+  {
+    "id": 97,
+    "gua_id": 17,
+    "gua_name": "泽雷随",
+    "yao_position": "初九",
+    "yao_text": "官有渝，贞吉。出门交有功。",
+    "translation": "思想观念发生转变，守正吉祥，外出交往有所收获。",
+    "interpretation": "想法可以适当变通，多走出去交流，会带来新机会。"
+  },
+  {
+    "id": 98,
+    "gua_id": 17,
+    "gua_name": "泽雷随",
+    "yao_position": "六二",
+    "yao_text": "系小子，失丈夫。",
+    "translation": "依附年幼小辈，反而错失更成熟可靠的机会。",
+    "interpretation": "不要盯着眼前小利益，忽略长期更重要的选择。"
+  },
+  {
+    "id": 99,
+    "gua_id": 17,
+    "gua_name": "泽雷随",
+    "yao_position": "六三",
+    "yao_text": "系丈夫，失小子。随有求得，利居贞。",
+    "translation": "追随成熟可靠者，舍弃微小利益，坚守正道可得所求。",
+    "interpretation": "认准靠谱的人跟随，放弃短期小诱惑，稳扎稳打。"
+  },
+  {
+    "id": 100,
+    "gua_id": 17,
+    "gua_name": "泽雷随",
+    "yao_position": "九泗",
+    "yao_text": "随有获，贞凶。有孚在道，以明，何咎？",
+    "translation": "追随有所收获，但过度追逐会有风险，心怀坦诚则无过错。",
+    "interpretation": "顺势拿到收益可以，但别贪多，守住底线。"
+  },
+  {
+    "id": 101,
+    "gua_id": 17,
+    "gua_name": "泽雷随",
+    "yao_position": "九五",
+    "yao_text": "孚于嘉，吉。",
+    "translation": "心怀诚信择善相随，十分吉祥。",
+    "interpretation": "带着真诚去合作同行，不要带着算计与人相处。"
+  },
+  {
+    "id": 102,
+    "gua_id": 17,
+    "gua_name": "泽雷随",
+    "yao_position": "上六",
+    "yao_text": "拘系之，乃从维之；王用亨于西山。",
+    "translation": "强行束缚逼迫顺从，靠信义感化才能长久维系。",
+    "interpretation": "不要试图控制别人，强行捆绑留不住关系，真诚才行。"
+  },
+  {
+    "id": 103,
+    "gua_id": 18,
+    "gua_name": "山风蛊",
+    "yao_position": "初六",
+    "yao_text": "干父之蛊，有子，考无咎，厉终吉。",
+    "translation": "纠正父辈遗留的弊病，后辈担责，虽有波折终获吉祥。",
+    "interpretation": "修正前人留下的烂摊子，扛下责任慢慢修复问题。"
+  },
+  {
+    "id": 104,
+    "gua_id": 18,
+    "gua_name": "山风蛊",
+    "yao_position": "九二",
+    "yao_text": "干母之蛊，不可贞。",
+    "translation": "纠正母辈遗留问题，不可过于强硬死守。",
+    "interpretation": "处理旧矛盾要柔和变通，不要硬碰硬激化冲突。"
+  },
+  {
+    "id": 105,
+    "gua_id": 18,
+    "gua_name": "山风蛊",
+    "yao_position": "九三",
+    "yao_text": "干父之蛊，小有悔，无大咎。",
+    "translation": "纠正旧弊，稍有遗憾，但没有重大过失。",
+    "interpretation": "大刀阔斧改革旧问题，难免有小瑕疵，整体方向没问题。"
+  },
+  {
+    "id": 106,
+    "gua_id": 18,
+    "gua_name": "山风蛊",
+    "yao_position": "六泗",
+    "yao_text": "裕父之蛊，往见吝。",
+    "translation": "宽容放任旧弊病不去根治，往前走会出现遗憾。",
+    "interpretation": "一味纵容遗留问题不去解决，后面隐患会越来越大。"
+  },
+  {
+    "id": 107,
+    "gua_id": 18,
+    "gua_name": "山风蛊",
+    "yao_position": "六五",
+    "yao_text": "干父之蛊，用誉。",
+    "translation": "妥善治理遗留弊病，获得声誉认可。",
+    "interpretation": "用稳妥方式解决历史问题，会收获大家的信任。"
+  },
+  {
+    "id": 108,
+    "gua_id": 18,
+    "gua_name": "山风蛊",
+    "yao_position": "上九",
+    "yao_text": "不事王侯，高尚其事。",
+    "translation": "不去依附权贵，坚守自己高尚的志向。",
+    "interpretation": "不必非要依附别人做事，守住自己独立的价值追求。"
+  },
+  {
+    "id": 109,
+    "gua_id": 19,
+    "gua_name": "地泽临",
+    "yao_position": "初九",
+    "yao_text": "咸临，贞吉。",
+    "translation": "心怀感应主动体察，守正吉祥。",
+    "interpretation": "主动深入一线了解情况，不要只听别人汇报。"
+  },
+  {
+    "id": 110,
+    "gua_id": 19,
+    "gua_name": "地泽临",
+    "yao_position": "九二",
+    "yao_text": "咸临，吉无不利。",
+    "translation": "用心体察局势，吉祥，万事顺利。",
+    "interpretation": "主动跟进事态发展，提前预判，做事会很顺畅。"
+  },
+  {
+    "id": 111,
+    "gua_id": 19,
+    "gua_name": "地泽临",
+    "yao_position": "六三",
+    "yao_text": "甘临，无攸利。既忧之，无咎。",
+    "translation": "靠花言巧语管控，没有好处，意识到隐患及时忧虑改正，无过失。",
+    "interpretation": "不要靠画饼空话管理团队，意识到问题立刻调整。"
+  },
+  {
+    "id": 112,
+    "gua_id": 19,
+    "gua_name": "地泽临",
+    "yao_position": "六泗",
+    "yao_text": "至临，无咎。",
+    "translation": "尽心尽力亲临管理，没有过失。",
+    "interpretation": "亲自下场跟进细节，认真负责不会出大纰漏。"
+  },
+  {
+    "id": 113,
+    "gua_id": 19,
+    "gua_name": "地泽临",
+    "yao_position": "六五",
+    "yao_text": "知临，大君之宜，吉。",
+    "translation": "运用智慧体察管控，适合主事之人，吉祥。",
+    "interpretation": "用策略智慧管理，不用事事亲力亲为，知人善任。"
+  },
+  {
+    "id": 114,
+    "gua_id": 19,
+    "gua_name": "地泽临",
+    "yao_position": "上六",
+    "yao_text": "敦临，吉无咎。",
+    "translation": "敦厚宽厚体察管控，吉祥没有过失。",
+    "interpretation": "宽厚待人，稳重管理，格局足够方能长久。"
+  },
+  {
+    "id": 115,
+    "gua_id": 20,
+    "gua_name": "风地观",
+    "yao_position": "初六",
+    "yao_text": "童观，小人无咎，君子吝。",
+    "translation": "像孩童一样浅薄观察，普通人无妨，有追求之人会留下遗憾。",
+    "interpretation": "看事情只看表面，容易做出片面错误的判断。"
+  },
+  {
+    "id": 116,
+    "gua_id": 20,
+    "gua_name": "风地观",
+    "yao_position": "六二",
+    "yao_text": "窥观，利女贞。",
+    "translation": "从门缝偷偷观察，适合女子守正。",
+    "interpretation": "视野受限看不全全局，不要贸然下定重大决策。"
+  },
+  {
+    "id": 117,
+    "gua_id": 20,
+    "gua_name": "风地观",
+    "yao_position": "六三",
+    "yao_text": "观我生，进退。",
+    "translation": "观察自身处境，决定前进还是后退。",
+    "interpretation": "多审视自己当下状态，再决定下一步行动方向。"
+  },
+  {
+    "id": 118,
+    "gua_id": 20,
+    "gua_name": "风地观",
+    "yao_position": "六泗",
+    "yao_text": "观国之光，利用宾于王。",
+    "translation": "观察国家风物大势，适合前去拜见贵人。",
+    "interpretation": "看清行业大势之后，主动链接行业前辈获取机会。"
+  },
+  {
+    "id": 119,
+    "gua_id": 20,
+    "gua_name": "风地观",
+    "yao_position": "九五",
+    "yao_text": "观我生，君子无咎。",
+    "translation": "审视自己的所作所为，君子不会犯下过错。",
+    "interpretation": "时常复盘自己的行为，自查得失，避免走偏。"
+  },
+  {
+    "id": 120,
+    "gua_id": 20,
+    "gua_name": "风地观",
+    "yao_position": "上九",
+    "yao_text": "观其生，君子无咎。",
+    "translation": "观察世间众人状态，君子自省无过失。",
+    "interpretation": "多观察外界他人的得失教训，警醒自己不要踩坑。"
+  },
+  {
+    "id": 121,
+    "gua_id": 21,
+    "gua_name": "火雷噬嗑",
+    "yao_position": "初九",
+    "yao_text": "屦校灭趾，无咎。",
+    "translation": "脚上戴上刑具遮住脚趾，小惩大诫，没有大错。",
+    "interpretation": "早期出现小错误及时惩戒修正，避免酿成大祸。"
+  },
+  {
+    "id": 122,
+    "gua_id": 21,
+    "gua_name": "火雷噬嗑",
+    "yao_position": "六二",
+    "yao_text": "噬肤灭鼻，无咎。",
+    "translation": "啃咬皮肉伤到鼻子，惩戒稍重，没有大过失。",
+    "interpretation": "处理矛盾下手重一点，虽然过激，但能彻底解决问题。"
+  },
+  {
+    "id": 123,
+    "gua_id": 21,
+    "gua_name": "火雷噬嗑",
+    "yao_position": "六三",
+    "yao_text": "噬腊肉，遇毒，小吝，无咎。",
+    "translation": "啃咬腊肉吃到毒物，小有不顺，无大过错。",
+    "interpretation": "解决卡点的时候会遇到额外麻烦，属于小波折不影响大局。"
+  },
+  {
+    "id": 124,
+    "gua_id": 21,
+    "gua_name": "火雷噬嗑",
+    "yao_position": "九泗",
+    "yao_text": "噬干胏，得金矢，利艰贞，吉。",
+    "translation": "啃咬带骨干肉，得到金属箭头，艰难坚守可得吉祥。",
+    "interpretation": "难题非常棘手，咬牙坚持慢慢拆解，终能突破。"
+  },
+  {
+    "id": 125,
+    "gua_id": 21,
+    "gua_name": "火雷噬嗑",
+    "yao_position": "六五",
+    "yao_text": "噬干肉，得黄金，贞厉，无咎。",
+    "translation": "啃咬干肉，得到黄金，守正虽有危险，没有过失。",
+    "interpretation": "处理矛盾过程伴随风险，谨慎行事可以化解危机。"
+  },
+  {
+    "id": 126,
+    "gua_id": 21,
+    "gua_name": "火雷噬嗑",
+    "yao_position": "上九",
+    "yao_text": "何校灭耳，凶。",
+    "translation": "脖子戴着刑具遮住耳朵，凶险。",
+    "interpretation": "不听劝告一意孤行，犯下大错，后果非常严重。"
+  },
+  {
+    "id": 127,
+    "gua_id": 22,
+    "gua_name": "山火贲",
+    "yao_position": "初九",
+    "yao_text": "贲其趾，舍车而徒。",
+    "translation": "修饰自己的脚步，舍弃车马徒步前行。",
+    "interpretation": "从小细节打磨自己，不追求浮华排场，踏实做事。"
+  },
+  {
+    "id": 128,
+    "gua_id": 22,
+    "gua_name": "山火贲",
+    "yao_position": "六二",
+    "yao_text": "贲其须。",
+    "translation": "修饰自己的胡须，修饰外在仪态。",
+    "interpretation": "适当打理形象，包装展示自己，给别人良好第一印象。"
+  },
+  {
+    "id": 129,
+    "gua_id": 22,
+    "gua_name": "山火贲",
+    "yao_position": "九三",
+    "yao_text": "贲如濡如，永贞吉。",
+    "translation": "文饰润泽光彩，长久守正吉祥。",
+    "interpretation": "外在包装得体，内核守住正道，长久发展向好。"
+  },
+  {
+    "id": 130,
+    "gua_id": 22,
+    "gua_name": "山火贲",
+    "yao_position": "六泗",
+    "yao_text": "贲如皤如，白马翰如，匪寇婚媾。",
+    "translation": "素白简约修饰，白马飞驰而来，不是盗匪而是前来联姻。",
+    "interpretation": "不必过度华丽包装，简约真诚反而更容易获得合作。"
+  },
+  {
+    "id": 131,
+    "gua_id": 22,
+    "gua_name": "山火贲",
+    "yao_position": "六五",
+    "yao_text": "贲于丘园，束帛戋戋，吝，终吉。",
+    "translation": "装饰山丘园林，少量丝帛礼品，略显简朴，最终吉祥。",
+    "interpretation": "不用重金铺张宣传，简单务实投入，长期效果更好。"
+  },
+  {
+    "id": 132,
+    "gua_id": 22,
+    "gua_name": "山火贲",
+    "yao_position": "上九",
+    "yao_text": "白贲，无咎。",
+    "translation": "素白无华的修饰，返璞归真，没有过失。",
+    "interpretation": "去掉多余花哨包装，回归本质实力才是核心。"
+  },
+  {
+    "id": 133,
+    "gua_id": 23,
+    "gua_name": "山地剥",
+    "yao_position": "初六",
+    "yao_text": "剥床以足，蔑贞凶。",
+    "translation": "剥落床脚，侵蚀根基，不守正道凶险。",
+    "interpretation": "隐患从底层慢慢侵蚀根基，不及时制止会越来越严重。"
+  },
+  {
+    "id": 134,
+    "gua_id": 23,
+    "gua_name": "山地剥",
+    "yao_position": "六二",
+    "yao_text": "剥床以辨，蔑贞凶。",
+    "translation": "剥落床板，根基进一步受损，凶险。",
+    "interpretation": "问题持续向上蔓延，损害不断扩大，危机持续加剧。"
+  },
+  {
+    "id": 135,
+    "gua_id": 23,
+    "gua_name": "山地剥",
+    "yao_position": "六三",
+    "yao_text": "剥之，无咎。",
+    "translation": "被剥落侵蚀，独善其身，没有重大过失。",
+    "interpretation": "大环境下行，做好自保，不盲目逆势投入。"
+  },
+  {
+    "id": 136,
+    "gua_id": 23,
+    "gua_name": "山地剥",
+    "yao_position": "六泗",
+    "yao_text": "剥床以肤，凶。",
+    "translation": "剥落伤到床面，灾祸已经近身，凶险。",
+    "interpretation": "危机已经来到眼前，必须立刻止损撤退。"
+  },
+  {
+    "id": 137,
+    "gua_id": 23,
+    "gua_name": "山地剥",
+    "yao_position": "六五",
+    "yao_text": "贯鱼，以宫人宠，无不利。",
+    "translation": "依次有序排列，像后宫依次获宠，顺势而行无不利。",
+    "interpretation": "顺着局势顺势取舍，不要强行逆势反抗。"
+  },
+  {
+    "id": 138,
+    "gua_id": 23,
+    "gua_name": "山地剥",
+    "yao_position": "上九",
+    "yao_text": "硕果不食，君子得舆，小人剥庐。",
+    "translation": "硕大果实留存不被吃掉，君子收获成果，小人连居所都会失去。",
+    "interpretation": "守住核心关键资源，乱世之中保住根本才能存活。"
+  },
+  {
+    "id": 139,
+    "gua_id": 24,
+    "gua_name": "地雷复",
+    "yao_position": "初九",
+    "yao_text": "不远复，无祗悔，元吉。",
+    "translation": "走不远就及时回头，不会留下悔恨，大吉。",
+    "interpretation": "发现方向不对，及时止损回头，损失最小。"
+  },
+  {
+    "id": 140,
+    "gua_id": 24,
+    "gua_name": "地雷复",
+    "yao_position": "六二",
+    "yao_text": "休复，吉。",
+    "translation": "美好的回归正道，吉祥。",
+    "interpretation": "主动调整心态回归初心，状态慢慢变好。"
+  },
+  {
+    "id": 141,
+    "gua_id": 24,
+    "gua_name": "地雷复",
+    "yao_position": "六三",
+    "yao_text": "频复，厉无咎。",
+    "translation": "频繁反复摇摆，虽有危险，及时修正则无过失。",
+    "interpretation": "做事反复纠结动摇，只要及时拉回正轨就不会出大事。"
+  },
+  {
+    "id": 142,
+    "gua_id": 24,
+    "gua_name": "地雷复",
+    "yao_position": "六泗",
+    "yao_text": "中行独复。",
+    "translation": "行走在道路中间，独自回归正道。",
+    "interpretation": "周围人都走偏的时候，坚持守住自己正确的方向。"
+  },
+  {
+    "id": 143,
+    "gua_id": 24,
+    "gua_name": "地雷复",
+    "yao_position": "六五",
+    "yao_text": "敦复，无悔。",
+    "translation": "敦厚踏实回归正道，没有悔恨。",
+    "interpretation": "踏踏实实调整路线，沉下心重新起步，不留遗憾。"
+  },
+  {
+    "id": 144,
+    "gua_id": 24,
+    "gua_name": "地雷复",
+    "yao_position": "上六",
+    "yao_text": "迷复，凶，有灾眚。用行师，终有大败，以其国君，凶，至于十年，不克征。",
+    "translation": "迷失道路不知回头，凶险，会招来灾祸。贸然行动会惨败，长久无法翻身。",
+    "interpretation": "明知走错路依旧不肯回头，硬扛下去会承受巨大损失。"
+  },
+  {
+    "id": 145,
+    "gua_id": 25,
+    "gua_name": "天雷无妄",
+    "yao_position": "初九",
+    "yao_text": "无妄，往吉。",
+    "translation": "不妄想不投机，踏实前行吉祥。",
+    "interpretation": "踏踏实实做事，不要幻想捷径，往前走自然顺利。"
+  },
+  {
+    "id": 146,
+    "gua_id": 25,
+    "gua_name": "天雷无妄",
+    "yao_position": "六二",
+    "yao_text": "不耕获，不菑畲，则利有攸往。",
+    "translation": "不耕种就不要想着收获，不开荒就不要指望良田，踏实付出再求回报。",
+    "interpretation": "没有付出就不要期待回报，一步一步耕耘再谈收益。"
+  },
+  {
+    "id": 147,
+    "gua_id": 25,
+    "gua_name": "天雷无妄",
+    "yao_position": "六三",
+    "yao_text": "无妄之灾，或系之牛，行人之得，邑人之灾。",
+    "translation": "意想不到的灾祸，路人牵走牛，邻居无辜受牵连。",
+    "interpretation": "有时候会遇到无妄之灾，不是自己犯错，也要做好风险防备。"
+  },
+  {
+    "id": 148,
+    "gua_id": 25,
+    "gua_name": "天雷无妄",
+    "yao_position": "九泗",
+    "yao_text": "可贞，无咎。",
+    "translation": "可以坚守正道，没有过失。",
+    "interpretation": "稳住当下节奏，不要胡思乱想，按既定路线推进。"
+  },
+  {
+    "id": 149,
+    "gua_id": 25,
+    "gua_name": "天雷无妄",
+    "yao_position": "九五",
+    "yao_text": "无妄之疾，勿药有喜。",
+    "translation": "莫名生出小病，不用强行医治，自行痊愈。",
+    "interpretation": "突发小问题不必过度焦虑干预，静观其变自行恢复。"
+  },
+  {
+    "id": 150,
+    "gua_id": 25,
+    "gua_name": "天雷无妄",
+    "yao_position": "上九",
+    "yao_text": "无妄，行有眚，无攸利。",
+    "translation": "不妄为，但强行行动依旧会生祸患，没有收益。",
+    "interpretation": "时机不到，哪怕本心没有问题，也不要强行去推进事情。"
+  },
+  {
+    "id": 151,
+    "gua_id": 26,
+    "gua_name": "山天大畜",
+    "yao_position": "初九",
+    "yao_text": "有厉，利已。",
+    "translation": "存在危险，适合暂停行动。",
+    "interpretation": "风险尚未明朗，先停下来观望，不要贸然出手。"
+  },
+  {
+    "id": 152,
+    "gua_id": 26,
+    "gua_name": "山天大畜",
+    "yao_position": "九二",
+    "yao_text": "舆说輹。",
+    "translation": "车轴脱落，车子无法前行。",
+    "interpretation": "遇到卡点进度停滞，强行推进没有意义，先修复问题。"
+  },
+  {
+    "id": 153,
+    "gua_id": 26,
+    "gua_name": "山天大畜",
+    "yao_position": "九三",
+    "yao_text": "良马逐，利艰贞。日闲舆卫，利有攸往。",
+    "translation": "良马竞相奔驰，艰难守正有利。每日操练车马防卫，蓄力之后再出发。",
+    "interpretation": "长期坚持打磨能力，练好基本功，机会来了才能抓住。"
+  },
+  {
+    "id": 154,
+    "gua_id": 26,
+    "gua_name": "山天大畜",
+    "yao_position": "六泗",
+    "yao_text": "童牛之牿，元吉。",
+    "translation": "小牛头上装上横木防伤人，提前约束预防，大吉。",
+    "interpretation": "提前设立规则约束隐患，防患于未然，避免后面出大乱。"
+  },
+  {
+    "id": 155,
+    "gua_id": 26,
+    "gua_name": "山天大畜",
+    "yao_position": "六五",
+    "yao_text": "豮豕之牙，吉。",
+    "translation": "阉割过的猪，牙齿不再伤人，化解戾气吉祥。",
+    "interpretation": "去除事情里尖锐冲突的部分，缓和矛盾，平稳推进。"
+  },
+  {
+    "id": 156,
+    "gua_id": 26,
+    "gua_name": "山天大畜",
+    "yao_position": "上九",
+    "yao_text": "何天之衢，亨。",
+    "translation": "四通八达如同天街，前路通达。",
+    "interpretation": "积累足够之后，前路完全打通，可以大展拳脚施展抱负。"
+  },
+  {
+    "id": 157,
+    "gua_id": 27,
+    "gua_name": "山雷颐",
+    "yao_position": "初九",
+    "yao_text": "舍尔灵龟，观我朵颐，凶。",
+    "translation": "放弃自身本事，只羡慕别人所得，必有凶险。",
+    "interpretation": "别总羡慕别人的收获，先打磨自己的生存本事。"
+  },
+  {
+    "id": 158,
+    "gua_id": 27,
+    "gua_name": "山雷颐",
+    "yao_position": "六二",
+    "yao_text": "颠颐，拂经，于丘颐，征凶。",
+    "translation": "反向求取供养，违背常理向外索取，前行有风险。",
+    "interpretation": "不要一味伸手索取，一味依赖别人走不远。"
+  },
+  {
+    "id": 159,
+    "gua_id": 27,
+    "gua_name": "山雷颐",
+    "yao_position": "六三",
+    "yao_text": "拂颐，贞凶，十年勿用，无攸利。",
+    "translation": "违背滋养正道，长期消耗自己，长时间难以成事。",
+    "interpretation": "持续消耗透支自己，必须立刻调整生活节奏。"
+  },
+  {
+    "id": 160,
+    "gua_id": 27,
+    "gua_name": "山雷颐",
+    "yao_position": "六泗",
+    "yao_text": "颠颐，吉。虎视眈眈，其欲逐逐，无咎。",
+    "translation": "向下寻求滋养，目光长远，持续精进没有过失。",
+    "interpretation": "踏踏实实沉淀自己，持续提升，慢慢积蓄力量。"
+  },
+  {
+    "id": 161,
+    "gua_id": 27,
+    "gua_name": "山雷颐",
+    "yao_position": "六五",
+    "yao_text": "拂经，居贞吉，不可涉大川。",
+    "translation": "违背常规，安守静养吉祥，不可贸然做大行动。",
+    "interpretation": "现阶段适合休养调整，不要开启重大新项目。"
+  },
+  {
+    "id": 162,
+    "gua_id": 27,
+    "gua_name": "山雷颐",
+    "yao_position": "上九",
+    "yao_text": "由颐，厉吉，利涉大川。",
+    "translation": "担当起滋养众人的责任，虽有压力但终获吉祥。",
+    "interpretation": "靠自己立身，给身边人正向带动，可大胆前行。"
+  },
+  {
+    "id": 163,
+    "gua_id": 28,
+    "gua_name": "泽风大过",
+    "yao_position": "初六",
+    "yao_text": "藉用白茅，无咎。",
+    "translation": "用洁白茅草铺垫祭品，极度谨慎，没有过失。",
+    "interpretation": "做重大事情的时候万分小心，稳妥谨慎规避风险。"
+  },
+  {
+    "id": 164,
+    "gua_id": 28,
+    "gua_name": "泽风大过",
+    "yao_position": "九二",
+    "yao_text": "枯杨生稊，老夫得其女妻，无不利。",
+    "translation": "枯杨树长出新芽，老年男子娶年轻妻子，顺势焕发生机。",
+    "interpretation": "困境之中找到新机会，老树发新芽，重获新的增长点。"
+  },
+  {
+    "id": 165,
+    "gua_id": 28,
+    "gua_name": "泽风大过",
+    "yao_position": "九三",
+    "yao_text": "栋桡，凶。",
+    "translation": "房梁弯曲塌陷，凶险。",
+    "interpretation": "核心支柱承受不住压力，关键环节崩坏，大事极易翻车。"
+  },
+  {
+    "id": 166,
+    "gua_id": 28,
+    "gua_name": "泽风大过",
+    "yao_position": "九泗",
+    "yao_text": "栋隆，吉。有它吝。",
+    "translation": "房梁隆起坚挺吉祥，但是仍有小隐患。",
+    "interpretation": "核心支柱撑住大局，大局没问题，细节还有瑕疵需要修补。"
+  },
+  {
+    "id": 167,
+    "gua_id": 28,
+    "gua_name": "泽风大过",
+    "yao_position": "九五",
+    "yao_text": "枯杨生华，老妇得其士夫，无咎无誉。",
+    "translation": "枯杨树开出花朵，老年妇人得到年轻丈夫，没有过错也没有美誉。",
+    "interpretation": "短暂表面繁华，没有长期根基，热闹只是一时。"
+  },
+  {
+    "id": 168,
+    "gua_id": 28,
+    "gua_name": "泽风大过",
+    "yao_position": "上六",
+    "yao_text": "过涉灭顶，凶，无咎。",
+    "translation": "涉水太深没过头顶，凶险，奋力补救之后无过失。",
+    "interpretation": "已经深陷巨大危机，拼尽全力补救，尽可能减少损失。"
+  },
+  {
+    "id": 169,
+    "gua_id": 29,
+    "gua_name": "坎为水",
+    "yao_position": "初六",
+    "yao_text": "习坎，入于坎窞，凶。",
+    "translation": "重重险难，落入深坑之中，凶险。",
+    "interpretation": "接连陷入困境，越陷越深，及时停止不要继续往下走。"
+  },
+  {
+    "id": 170,
+    "gua_id": 29,
+    "gua_name": "坎为水",
+    "yao_position": "九二",
+    "yao_text": "坎有险，求小得。",
+    "translation": "险境之中，只能谋求微小收获。",
+    "interpretation": "身处困难环境，不要奢求大突破，拿到小成果即可。"
+  },
+  {
+    "id": 171,
+    "gua_id": 29,
+    "gua_name": "坎为水",
+    "yao_position": "六三",
+    "yao_text": "来之坎坎，险且枕，入于坎窞，勿用。",
+    "translation": "来去都是险境，危机重重落入深坑，不要贸然行动。",
+    "interpretation": "前后全是阻碍，原地蛰伏等待，千万不要到处折腾。"
+  },
+  {
+    "id": 172,
+    "gua_id": 29,
+    "gua_name": "坎为水",
+    "yao_position": "六泗",
+    "yao_text": "樽酒，簋贰，用缶，纳约自牖，终无咎。",
+    "translation": "简单酒菜，质朴坦诚，从窗口递交简约信约，最终无过失。",
+    "interpretation": "困境沟通不必繁琐套路，简单真诚沟通达成共识。"
+  },
+  {
+    "id": 173,
+    "gua_id": 29,
+    "gua_name": "坎为水",
+    "yao_position": "九五",
+    "yao_text": "坎不盈，祇既平，无咎。",
+    "translation": "水坑尚未填满，险情渐渐平复，没有过失。",
+    "interpretation": "危机慢慢缓和，不要急于求成，慢慢等局势完全平稳。"
+  },
+  {
+    "id": 174,
+    "gua_id": 29,
+    "gua_name": "坎为水",
+    "yao_position": "上六",
+    "yao_text": "系用徽纆，置于丛棘，三岁不得，凶。",
+    "translation": "绳索捆绑，囚禁荆棘之中，多年无法脱身，凶险。",
+    "interpretation": "一旦犯下严重错误，会长时间被困住，代价极大。"
+  },
+  {
+    "id": 175,
+    "gua_id": 30,
+    "gua_name": "离为火",
+    "yao_position": "初九",
+    "yao_text": "履错然，敬之无咎。",
+    "translation": "脚步错乱行事，心存恭敬谨慎，没有过失。",
+    "interpretation": "刚开始做事手忙脚乱，保持谨慎小心，慢慢理顺节奏。"
+  },
+  {
+    "id": 176,
+    "gua_id": 30,
+    "gua_name": "离为火",
+    "yao_position": "六二",
+    "yao_text": "黄离，元吉。",
+    "translation": "中正柔和附着光明，大吉。",
+    "interpretation": "守住中庸柔和之道，依附正道行事，一路顺畅。"
+  },
+  {
+    "id": 177,
+    "gua_id": 30,
+    "gua_name": "离为火",
+    "yao_position": "九三",
+    "yao_text": "日昃之离，不鼓缶而歌，则大耋之嗟，凶。",
+    "translation": "太阳西斜，光芒将尽，不及时自娱自乐，老来哀叹，凶险。",
+    "interpretation": "鼎盛时期即将过去，提前放平心态，接受阶段衰退。"
+  },
+  {
+    "id": 178,
+    "gua_id": 30,
+    "gua_name": "离为火",
+    "yao_position": "九泗",
+    "yao_text": "突如其来如，焚如，死如，弃如。",
+    "translation": "突如其来爆发变故，焚烧毁灭，被抛弃。",
+    "interpretation": "突发重大变故，局面瞬间崩塌，提前做好风险预案。"
+  },
+  {
+    "id": 179,
+    "gua_id": 30,
+    "gua_name": "离为火",
+    "yao_position": "六五",
+    "yao_text": "出涕沱若，戚嗟若，吉。",
+    "translation": "泪流满面，忧伤哀叹，警醒之后可得吉祥。",
+    "interpretation": "感受到危机心生忧虑，提前警醒布局规避灾祸。"
+  },
+  {
+    "id": 180,
+    "gua_id": 30,
+    "gua_name": "离为火",
+    "yao_position": "上九",
+    "yao_text": "王用出征，有嘉折首，获匪其丑，无咎。",
+    "translation": "君王出兵征伐，斩杀元凶，不滥杀随从，没有过失。",
+    "interpretation": "解决矛盾只处理核心问题，不要大面积牵连无关人员。"
+  },
+  {
+    "id": 181,
+    "gua_id": 31,
+    "gua_name": "泽山咸",
+    "yao_position": "初六",
+    "yao_text": "咸其拇。",
+    "translation": "感应在大拇指，微弱触动。",
+    "interpretation": "事情刚刚出现一点苗头，只是微小信号，不必立刻大动干戈。"
+  },
+  {
+    "id": 182,
+    "gua_id": 31,
+    "gua_name": "泽山咸",
+    "yao_position": "六二",
+    "yao_text": "咸其腓，凶，居吉。",
+    "translation": "感应到小腿，贸然行动凶险，安居不动吉祥。",
+    "interpretation": "刚刚产生情绪冲动，先稳住不要立刻做出决定。"
+  },
+  {
+    "id": 183,
+    "gua_id": 31,
+    "gua_name": "泽山咸",
+    "yao_position": "九三",
+    "yao_text": "咸其股，执其随，往吝。",
+    "translation": "感应到大腿，盲目跟随别人行动，前行留有遗憾。",
+    "interpretation": "不要被情绪带着走，盲目跟风行动很容易后悔。"
+  },
+  {
+    "id": 184,
+    "gua_id": 31,
+    "gua_name": "泽山咸",
+    "yao_position": "九泗",
+    "yao_text": "贞吉悔亡，憧憧往来，朋从尔思。",
+    "translation": "守正吉祥悔恨消散，心神摇摆不定，朋友会顺从你的想法。",
+    "interpretation": "心意摇摆反复纠结，先稳住自己心态，才能影响别人。"
+  },
+  {
+    "id": 185,
+    "gua_id": 31,
+    "gua_name": "泽山咸",
+    "yao_position": "九五",
+    "yao_text": "咸其脢，无悔。",
+    "translation": "感应到背部，克制情绪，不会后悔。",
+    "interpretation": "把情绪藏在心里，克制冲动，冷静行事不留悔恨。"
+  },
+  {
+    "id": 186,
+    "gua_id": 31,
+    "gua_name": "泽山咸",
+    "yao_position": "上六",
+    "yao_text": "咸其辅颊舌。",
+    "translation": "感应到脸颊口舌，靠言语打动他人。",
+    "interpretation": "沟通交流的时候真诚表达，用语言传递想法打动对方。"
+  },
+  {
+    "id": 187,
+    "gua_id": 32,
+    "gua_name": "雷风恒",
+    "yao_position": "初六",
+    "yao_text": "浚恒，贞凶，无攸利。",
+    "translation": "一开始就强求长久，急于求成，凶险没有收益。",
+    "interpretation": "刚开始合作不要强求永久绑定，循序渐进慢慢来。"
+  },
+  {
+    "id": 188,
+    "gua_id": 32,
+    "gua_name": "雷风恒",
+    "yao_position": "九二",
+    "yao_text": "悔亡。",
+    "translation": "悔恨消散。",
+    "interpretation": "调整心态接纳磨合，矛盾慢慢化解，不再心生遗憾。"
+  },
+  {
+    "id": 189,
+    "gua_id": 32,
+    "gua_name": "雷风恒",
+    "yao_position": "九三",
+    "yao_text": "不恒其德，或承之羞，贞吝。",
+    "translation": "不能长久坚守本心，会蒙受羞辱，行事留有遗憾。",
+    "interpretation": "做事三天打鱼两天晒网，很难做出长期结果。"
+  },
+  {
+    "id": 190,
+    "gua_id": 32,
+    "gua_name": "雷风恒",
+    "yao_position": "九泗",
+    "yao_text": "田无禽。",
+    "translation": "打猎没有捕获猎物。",
+    "interpretation": "方向不对再长久坚持，也得不到想要的结果，及时复盘路线。"
+  },
+  {
+    "id": 191,
+    "gua_id": 32,
+    "gua_name": "雷风恒",
+    "yao_position": "六五",
+    "yao_text": "恒其德，贞，妇人吉，夫子凶。",
+    "translation": "长久坚守德行，女子吉祥，男子一味顺从凶险。",
+    "interpretation": "长期坚守原则，但是男性做事不能一味被动顺从。"
+  },
+  {
+    "id": 192,
+    "gua_id": 32,
+    "gua_name": "雷风恒",
+    "yao_position": "上六",
+    "yao_text": "振恒，凶。",
+    "translation": "长久动荡摇摆，凶险。",
+    "interpretation": "一直反反复复变动方向，永远无法沉淀成事。"
+  },
+  {
+    "id": 193,
+    "gua_id": 33,
+    "gua_name": "天山遁",
+    "yao_position": "初六",
+    "yao_text": "遁尾，厉，勿用有攸往。",
+    "translation": "退避落在最后，处境危险，不要贸然前行。",
+    "interpretation": "撤退动作慢了，陷入被动，不要再继续投入。"
+  },
+  {
+    "id": 194,
+    "gua_id": 33,
+    "gua_name": "天山遁",
+    "yao_position": "六二",
+    "yao_text": "执之用黄牛之革，莫之胜说。",
+    "translation": "用黄牛皮绳牢牢捆住，无法挣脱。",
+    "interpretation": "局势不利但是被事务牵绊，暂时无法抽身离开。"
+  },
+  {
+    "id": 195,
+    "gua_id": 33,
+    "gua_name": "天山遁",
+    "yao_position": "九三",
+    "yao_text": "系遁，有疾厉，畜臣妾吉。",
+    "translation": "想要退避却被牵绊，如同生病危险，先安顿内部小事可得吉祥。",
+    "interpretation": "想抽身但是事情放不下，先稳住内部琐事，再计划撤退。"
+  },
+  {
+    "id": 196,
+    "gua_id": 33,
+    "gua_name": "天山遁",
+    "yao_position": "九泗",
+    "yao_text": "好遁，君子吉，小人否。",
+    "translation": "果断放下潇洒退避，君子吉祥，小人做不到。",
+    "interpretation": "懂得适时放弃，及时抽身，不贪恋短期利益。"
+  },
+  {
+    "id": 197,
+    "gua_id": 33,
+    "gua_name": "天山遁",
+    "yao_position": "九五",
+    "yao_text": "嘉遁，贞吉。",
+    "translation": "恰到好处体面退隐，守正吉祥。",
+    "interpretation": "在合适时机体面退场，不撕破脸面，留好后路。"
+  },
+  {
+    "id": 198,
+    "gua_id": 33,
+    "gua_name": "天山遁",
+    "yao_position": "上九",
+    "yao_text": "肥遁，无不利。",
+    "translation": "从容自在远走高飞，没有任何不利。",
+    "interpretation": "毫无牵绊潇洒抽身离开，彻底脱离糟糕的环境。"
+  },
+  {
+    "id": 199,
+    "gua_id": 34,
+    "gua_name": "雷天大壮",
+    "yao_position": "初九",
+    "yao_text": "壮于趾，征凶，有孚。",
+    "translation": "力量只在脚趾，贸然前进凶险，守住耐心。",
+    "interpretation": "刚刚积攒一点力量，不要贸然出击，继续蓄力。"
+  },
+  {
+    "id": 200,
+    "gua_id": 34,
+    "gua_name": "雷天大壮",
+    "yao_position": "九二",
+    "yao_text": "贞吉。",
+    "translation": "坚守正道吉祥。",
+    "interpretation": "实力强盛之时更要守规矩，不要恃强乱来。"
+  },
+  {
+    "id": 201,
+    "gua_id": 34,
+    "gua_name": "雷天大壮",
+    "yao_position": "九三",
+    "yao_text": "小人用壮，君子用罔，贞厉。羝羊触藩，羸其角。",
+    "translation": "小人依仗蛮力，君子不逞强，守正仍有风险。公羊顶撞篱笆，卡住羊角进退两难。",
+    "interpretation": "不要凭着实力冲动硬刚，很容易卡在中间进退不得。"
+  },
+  {
+    "id": 202,
+    "gua_id": 34,
+    "gua_name": "雷天大壮",
+    "yao_position": "九泗",
+    "yao_text": "贞吉悔亡，藩决不羸，壮于大舆之輹。",
+    "translation": "守正吉祥悔恨消散，篱笆冲破不再卡角，力量稳固如同大车车轴。",
+    "interpretation": "冲破阻碍之后，实力稳固，可以稳步向前推进。"
+  },
+  {
+    "id": 203,
+    "gua_id": 34,
+    "gua_name": "雷天大壮",
+    "yao_position": "六五",
+    "yao_text": "丧羊于易，无悔。",
+    "translation": "在田畔丢失公羊，不用悔恨。",
+    "interpretation": "损失一部分利益，不必耿耿于怀，及时放下继续前行。"
+  },
+  {
+    "id": 204,
+    "gua_id": 34,
+    "gua_name": "雷天大壮",
+    "yao_position": "上六",
+    "yao_text": "羝羊触藩，不能退，不能遂，无攸利，艰则吉。",
+    "translation": "公羊卡在篱笆，进也不行退也不行，暂时没有收益，熬过艰难可得吉祥。",
+    "interpretation": "进退两难的时候不要强行挣扎，熬过这段僵持期自然转机。"
+  },
+  {
+    "id": 205,
+    "gua_id": 35,
+    "gua_name": "火地晋",
+    "yao_position": "初六",
+    "yao_text": "晋如摧如，贞吉。罔孚，裕无咎。",
+    "translation": "前进受挫，守正吉祥。尚未获得信任，放宽心态无过失。",
+    "interpretation": "刚开始推进事情遭受打击，还没建立信任，放平心态慢慢来。"
+  },
+  {
+    "id": 206,
+    "gua_id": 35,
+    "gua_name": "火地晋",
+    "yao_position": "六二",
+    "yao_text": "晋如愁如，贞吉。受兹介福，于其王母。",
+    "translation": "前进之中满怀忧愁，守正吉祥，从长辈贵人那里获得福运。",
+    "interpretation": "前路迷茫发愁，坚持走下去，会得到前辈贵人扶持。"
+  },
+  {
+    "id": 207,
+    "gua_id": 35,
+    "gua_name": "火地晋",
+    "yao_position": "六三",
+    "yao_text": "众允，悔亡。",
+    "translation": "众人信任认可，悔恨消散。",
+    "interpretation": "获得团队大家的认同，阻力大幅减小，做事更加顺畅。"
+  },
+  {
+    "id": 208,
+    "gua_id": 35,
+    "gua_name": "火地晋",
+    "yao_position": "九泗",
+    "yao_text": "晋如鼫鼠，贞厉。",
+    "translation": "前进如同贪食大鼠，贪婪多疑，守正也暗藏危机。",
+    "interpretation": "往上发展的时候贪心不足，什么都想要，容易招致危机。"
+  },
+  {
+    "id": 209,
+    "gua_id": 35,
+    "gua_name": "火地晋",
+    "yao_position": "六五",
+    "yao_text": "悔亡，失得勿恤，往吉无不利。",
+    "translation": "悔恨消散，不必计较得失，前行吉祥万事顺利。",
+    "interpretation": "不要纠结一时得失，大胆往前推进，整体趋势向好。"
+  },
+  {
+    "id": 210,
+    "gua_id": 35,
+    "gua_name": "火地晋",
+    "yao_position": "上九",
+    "yao_text": "晋其角，维用伐邑，厉吉无咎，贞吝。",
+    "translation": "前进到顶端，只能用来攻克小问题，虽有波折吉祥，长久仍有遗憾。",
+    "interpretation": "走到高位只适合解决局部问题，不要再盲目扩张。"
+  },
+  {
+    "id": 211,
+    "gua_id": 36,
+    "gua_name": "地火明夷",
+    "yao_position": "初九",
+    "yao_text": "明夷于飞，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+    "translation": "光明受损，鸟儿低垂翅膀飞行。君子赶路，多日不吃东西，前行会受到非议。",
+    "interpretation": "局势昏暗，低调收敛锋芒，不要在意旁人闲言碎语。"
+  },
+  {
+    "id": 212,
+    "gua_id": 36,
+    "gua_name": "地火明夷",
+    "yao_position": "六二",
+    "yao_text": "明夷，夷于左股，用拯马壮，吉。",
+    "translation": "光明受损伤到左腿，借助强壮马匹救助，吉祥。",
+    "interpretation": "受到伤害陷入低谷，寻找外力帮扶自己走出困境。"
+  },
+  {
+    "id": 213,
+    "gua_id": 36,
+    "gua_name": "地火明夷",
+    "yao_position": "九三",
+    "yao_text": "明夷于南狩，得其大首，不可疾贞。",
+    "translation": "光明受损之时向南征伐，擒获元凶，不可操之过急。",
+    "interpretation": "环境黑暗之时，找准核心问题慢慢解决，不要急于翻盘。"
+  },
+  {
+    "id": 214,
+    "gua_id": 36,
+    "gua_name": "地火明夷",
+    "yao_position": "六泗",
+    "yao_text": "入于左腹，获明夷之心，出于门庭。",
+    "translation": "进入左侧腹地，体察昏暗局势的内情，走出家门。",
+    "interpretation": "深入看清当下黑暗局势的真相，之后再规划脱身路线。"
+  },
+  {
+    "id": 215,
+    "gua_id": 36,
+    "gua_name": "地火明夷",
+    "yao_position": "六五",
+    "yao_text": "箕子之明夷，利贞。",
+    "translation": "如同箕子隐藏智慧装疯避祸，守正有利。",
+    "interpretation": "时局不利的时候藏起才华自保，不要高调出头。"
+  },
+  {
+    "id": 216,
+    "gua_id": 36,
+    "gua_name": "地火明夷",
+    "yao_position": "上六",
+    "yao_text": "不明晦，初登于天，后入于地。",
+    "translation": "没有光明一片昏暗，起初飞上天空，最终坠入地底。",
+    "interpretation": "曾经风光无限，时局逆转彻底跌落，认清环境变化及时自保。"
+  },
+  {
+    "id": 217,
+    "gua_id": 37,
+    "gua_name": "风火家人",
+    "yao_position": "初九",
+    "yao_text": "闲有家，悔亡。",
+    "translation": "家中做好防范规矩，悔恨消散。",
+    "interpretation": "团队、家庭提前建立规矩，减少后面矛盾纠纷。"
+  },
+  {
+    "id": 218,
+    "gua_id": 37,
+    "gua_name": "风火家人",
+    "yao_position": "六二",
+    "yao_text": "无攸遂，在中馈，贞吉。",
+    "translation": "不擅自做主，主持家中饮食内务，守正吉祥。",
+    "interpretation": "做好分内本职工作，不要越权插手不属于自己的事。"
+  },
+  {
+    "id": 219,
+    "gua_id": 37,
+    "gua_name": "风火家人",
+    "yao_position": "九三",
+    "yao_text": "家人嗃嗃，悔厉吉。妇子嘻嘻，终吝。",
+    "translation": "家人严苛管控，虽有波折吉祥。妇人孩童嬉笑放纵，终留遗憾。",
+    "interpretation": "适当严格管理，不能过度放任散漫，否则秩序崩坏。"
+  },
+  {
+    "id": 220,
+    "gua_id": 37,
+    "gua_name": "风火家人",
+    "yao_position": "六泗",
+    "yao_text": "富家，大吉。",
+    "translation": "使家庭富足，大吉。",
+    "interpretation": "打理内部经营，积累资源财富，把底盘做大。"
+  },
+  {
+    "id": 221,
+    "gua_id": 37,
+    "gua_name": "风火家人",
+    "yao_position": "九五",
+    "yao_text": "王假有家，勿恤，吉。",
+    "translation": "君王来到家中，不必忧虑，吉祥。",
+    "interpretation": "得到上级贵人信任扶持，内部局面稳定向好。"
+  },
+  {
+    "id": 222,
+    "gua_id": 37,
+    "gua_name": "风火家人",
+    "yao_position": "上九",
+    "yao_text": "有孚威如，终吉。",
+    "translation": "心怀诚信又有威严，最终吉祥。",
+    "interpretation": "对内既要真诚待人，也要树立威信，恩威并施。"
+  },
+  {
+    "id": 223,
+    "gua_id": 38,
+    "gua_name": "火泽睽",
+    "yao_position": "初九",
+    "yao_text": "悔亡，丧马勿逐，自复。见恶人，无咎。",
+    "translation": "悔恨消散，丢失马匹不用追赶，自己会回来。偶遇不善之人，不必计较。",
+    "interpretation": "失去的东西不必强行追回，看淡得失，不必和烂人纠缠。"
+  },
+  {
+    "id": 224,
+    "gua_id": 38,
+    "gua_name": "火泽睽",
+    "yao_position": "九二",
+    "yao_text": "遇主于巷，无咎。",
+    "translation": "小巷之中偶遇主事贵人，没有过失。",
+    "interpretation": "不用刻意安排，偶然机会结识可以帮助自己的人。"
+  },
+  {
+    "id": 225,
+    "gua_id": 38,
+    "gua_name": "火泽睽",
+    "yao_position": "六三",
+    "yao_text": "见舆曳，其牛掣，其人天且劓，无初有终。",
+    "translation": "车子被拖拽，牛被牵制，人受过刑罚，开局艰难结局尚可。",
+    "interpretation": "开局处处受阻，矛盾重重，坚持到最后事情可以收尾。"
+  },
+  {
+    "id": 226,
+    "gua_id": 38,
+    "gua_name": "火泽睽",
+    "yao_position": "九泗",
+    "yao_text": "睽孤，遇元夫，交孚，厉无咎。",
+    "translation": "孤单不合群，遇到志同道合之人，彼此坦诚信任，虽有波折无过失。",
+    "interpretation": "想法与众人不合，找到少数知己同行，互相扶持渡过难关。"
+  },
+  {
+    "id": 227,
+    "gua_id": 38,
+    "gua_name": "火泽睽",
+    "yao_position": "六五",
+    "yao_text": "悔亡，厥宗噬肤，往何咎。",
+    "translation": "悔恨消散，同族亲近和解，前去合作哪里会有过错。",
+    "interpretation": "放下分歧，主动和解，化解矛盾之后可以一同做事。"
+  },
+  {
+    "id": 228,
+    "gua_id": 38,
+    "gua_name": "火泽睽",
+    "yao_position": "上九",
+    "yao_text": "睽孤，见豕负涂，载鬼一车，先张之弧，后说之弧，匪寇，婚媾，往遇雨则吉。",
+    "translation": "孤单多疑，看见泥猪、一车鬼魅，先张弓射箭，后来放下，不是盗匪而是联姻之人，前行遇雨吉祥。",
+    "interpretation": "容易脑补猜忌误会对方，放下偏见沟通，误会解开之后一切顺利。"
+  },
+  {
+    "id": 229,
+    "gua_id": 39,
+    "gua_name": "水山蹇",
+    "yao_position": "初六",
+    "yao_text": "往蹇，来誉。",
+    "translation": "前行艰难，退回休整获得赞誉。",
+    "interpretation": "往前推进阻力巨大，暂时后退休整，不要硬扛。"
+  },
+  {
+    "id": 230,
+    "gua_id": 39,
+    "gua_name": "水山蹇",
+    "yao_position": "六二",
+    "yao_text": "王臣蹇蹇，匪躬之故。",
+    "translation": "君王臣子接连受难，不是为了自身私利。",
+    "interpretation": "整件事所有人都深陷困境，不是你一个人的问题，不必过度自责。"
+  },
+  {
+    "id": 231,
+    "gua_id": 39,
+    "gua_name": "水山蹇",
+    "yao_position": "九三",
+    "yao_text": "往蹇，来反。",
+    "translation": "前行艰难，折返回来。",
+    "interpretation": "继续往前走只会更难，及时回头调整方案。"
+  },
+  {
+    "id": 232,
+    "gua_id": 39,
+    "gua_name": "水山蹇",
+    "yao_position": "六泗",
+    "yao_text": "往蹇，来连。",
+    "translation": "前行艰难，回来联合伙伴。",
+    "interpretation": "独自走不通，回来联络盟友一起共同面对难题。"
+  },
+  {
+    "id": 233,
+    "gua_id": 39,
+    "gua_name": "水山蹇",
+    "yao_position": "九五",
+    "yao_text": "大蹇，朋来。",
+    "translation": "陷入巨大艰难之时，志同道合之人前来相助。",
+    "interpretation": "最难的时候不要一个人硬扛，会有人愿意过来帮你分担难题。"
+  },
+  {
+    "id": 234,
+    "gua_id": 39,
+    "gua_name": "水山蹇",
+    "yao_position": "上六",
+    "yao_text": "往蹇，来硕，吉。利见大人。",
+    "translation": "前行艰难，回来收获丰硕成果，吉祥，适合拜见贵人。",
+    "interpretation": "不要强行硬闯难关，退回蓄力，寻求前辈指点，收获转机。"
+  },
+  {
+    "id": 235,
+    "gua_id": 40,
+    "gua_name": "雷水解",
+    "yao_position": "初六",
+    "yao_text": "无咎。",
+    "translation": "没有过失。",
+    "interpretation": "困局刚开始松动，稳妥行事，不会出现大问题。"
+  },
+  {
+    "id": 236,
+    "gua_id": 40,
+    "gua_name": "雷水解",
+    "yao_position": "九二",
+    "yao_text": "田获三狐，得黄矢，贞吉。",
+    "translation": "打猎捕获多只狐狸，得到金色箭矢，守正吉祥。",
+    "interpretation": "抓住机会清除隐患，解决积压很久的麻烦。"
+  },
+  {
+    "id": 237,
+    "gua_id": 40,
+    "gua_name": "雷水解",
+    "yao_position": "六三",
+    "yao_text": "负且乘，致寇至，贞吝。",
+    "translation": "背着东西坐车炫耀，引来盗匪，行事留有遗憾。",
+    "interpretation": "德不配位炫耀成果，容易招来嫉妒麻烦，低调收敛。"
+  },
+  {
+    "id": 238,
+    "gua_id": 40,
+    "gua_name": "雷水解",
+    "yao_position": "九泗",
+    "yao_text": "解而拇，朋至斯孚。",
+    "translation": "解开束缚脚趾的绳索，朋友前来诚心相交。",
+    "interpretation": "解除自身的包袱限制，放开手脚之后伙伴自然聚拢。"
+  },
+  {
+    "id": 239,
+    "gua_id": 40,
+    "gua_name": "雷水解",
+    "yao_position": "六五",
+    "yao_text": "君子维有解，吉；有孚于小人。",
+    "translation": "君子解除困局，吉祥，用诚信感化小人。",
+    "interpretation": "主动化解僵局，用真诚化解对立矛盾。"
+  },
+  {
+    "id": 240,
+    "gua_id": 40,
+    "gua_name": "雷水解",
+    "yao_position": "上六",
+    "yao_text": "公用射隼于高墉之上，获之，无不利。",
+    "translation": "公侯在高墙之上射杀恶隼，一举擒获，万事顺利。",
+    "interpretation": "抓住时机，精准清除最大阻碍，难题一次性解决。"
+  },
+  {
+    "id": 241,
+    "gua_id": 41,
+    "gua_name": "山泽损",
+    "yao_position": "初九",
+    "yao_text": "已事遄往，无咎，酌损之。",
+    "translation": "事情做完迅速前去支援，没有过失，酌情适当付出。",
+    "interpretation": "完成自己本职之后，适当分出精力帮助别人。"
+  },
+  {
+    "id": 242,
+    "gua_id": 41,
+    "gua_name": "山泽损",
+    "yao_position": "九二",
+    "yao_text": "利贞，征凶。弗损，益之。",
+    "translation": "利于守正，贸然前行凶险。不必自我减损，反而可以增益。",
+    "interpretation": "不必一味牺牲自己成全别人，守住自身利益再谈付出。"
+  },
+  {
+    "id": 243,
+    "gua_id": 41,
+    "gua_name": "山泽损",
+    "yao_position": "六三",
+    "yao_text": "三人行，则损一人；一人行，则得其友。",
+    "translation": "三人同行容易产生分歧走掉一人，独自前行反而会遇到知己。",
+    "interpretation": "多人合作容易内耗，精简团队反而更容易找到同频伙伴。"
+  },
+  {
+    "id": 244,
+    "gua_id": 41,
+    "gua_name": "山泽损",
+    "yao_position": "六泗",
+    "yao_text": "损其疾，使遄有喜，无咎。",
+    "translation": "减轻自身弊病，迅速向好转变，没有过失。",
+    "interpretation": "改掉自己身上的短板缺点，状态很快得到改善。"
+  },
+  {
+    "id": 245,
+    "gua_id": 41,
+    "gua_name": "山泽损",
+    "yao_position": "六五",
+    "yao_text": "或益之，十朋之龟，弗克违，元吉。",
+    "translation": "有人送来贵重宝物，无法推辞，大吉。",
+    "interpretation": "会有人主动给予资源扶持，坦然接纳这份助力。"
+  },
+  {
+    "id": 246,
+    "gua_id": 41,
+    "gua_name": "山泽损",
+    "yao_position": "上九",
+    "yao_text": "弗损，益之，无咎，贞吉。利有攸往，得臣无家。",
+    "translation": "不用自我减损，反而增益自己，守正吉祥，向外发展，获得全心追随的下属。",
+    "interpretation": "不必一味牺牲，壮大自身之后向外开拓，收获更多助力。"
+  },
+  {
+    "id": 247,
+    "gua_id": 42,
+    "gua_name": "风雷益",
+    "yao_position": "初九",
+    "yao_text": "利用为大作，元吉，无咎。",
+    "translation": "适合大有作为，大展拳脚，大吉，没有过失。",
+    "interpretation": "获得增益加持，大胆启动新项目，放手去干。"
+  },
+  {
+    "id": 248,
+    "gua_id": 42,
+    "gua_name": "风雷益",
+    "yao_position": "六二",
+    "yao_text": "或益之，十朋之龟，弗克违，永贞吉。王用享于帝，吉。",
+    "translation": "有人馈赠贵重宝物，不可推辞，长久守正吉祥，祭祀上天得福。",
+    "interpretation": "外界送来机遇资源，把握住机会，长期布局。"
+  },
+  {
+    "id": 249,
+    "gua_id": 42,
+    "gua_name": "风雷益",
+    "yao_position": "六三",
+    "yao_text": "益之用凶事，无咎。有孚中行，告公用圭。",
+    "translation": "增益用来救助危难之事，没有过失。心怀诚信秉持中道，向上汇报求助。",
+    "interpretation": "把资源投入到解决危机上，坦诚沟通寻求支持。"
+  },
+  {
+    "id": 250,
+    "gua_id": 42,
+    "gua_name": "风雷益",
+    "yao_position": "六泗",
+    "yao_text": "中行，告公从。利用为依迁国。",
+    "translation": "秉持中道，上报主事获得认同，适合依托大势迁移布局。",
+    "interpretation": "顺应大趋势调整布局，上报规划获得上级支持。"
+  },
+  {
+    "id": 251,
+    "gua_id": 42,
+    "gua_name": "风雷益",
+    "yao_position": "九五",
+    "yao_text": "有孚惠心，勿问元吉。有孚惠我德。",
+    "translation": "心怀诚信施惠于人，不用占卜也大吉，众人感念你的德行。",
+    "interpretation": "真诚利他，不用刻意索取回报，善意终会回馈自己。"
+  },
+  {
+    "id": 252,
+    "gua_id": 42,
+    "gua_name": "风雷益",
+    "yao_position": "上九",
+    "yao_text": "莫益之，或击之，立心勿恒，凶。",
+    "translation": "没有人再来增益扶持，反而会遭受攻击，心志摇摆不坚定，凶险。",
+    "interpretation": "一味索取不知付出，最后所有人都会远离，招致攻击。"
+  },
+  {
+    "id": 253,
+    "gua_id": 43,
+    "gua_name": "泽天夬",
+    "yao_position": "初九",
+    "yao_text": "壮于前趾，往不胜为咎。",
+    "translation": "力量只在前脚趾，贸然前行无法取胜，酿成过错。",
+    "interpretation": "力量储备不足，不要贸然出击切割矛盾，容易失败。"
+  },
+  {
+    "id": 254,
+    "gua_id": 43,
+    "gua_name": "泽天夬",
+    "yao_position": "九二",
+    "yao_text": "惕号，莫夜有戎，勿恤。",
+    "translation": "时刻警惕呼喊戒备，深夜也会有突袭，不必过度恐慌。",
+    "interpretation": "决定切割隐患之后，全程保持警惕，防备对方反扑。"
+  },
+  {
+    "id": 255,
+    "gua_id": 43,
+    "gua_name": "泽天夬",
+    "yao_position": "九三",
+    "yao_text": "壮于頄，有凶。君子夬夬，独行遇雨，若濡有愠，无咎。",
+    "translation": "怒气显于面部，会招来凶险。君子果断决绝，独行遇雨淋湿，虽有不快，无大过失。",
+    "interpretation": "不要把愤怒写在脸上，冷静果断处理矛盾，不必在意一时委屈。"
+  },
+  {
+    "id": 256,
+    "gua_id": 43,
+    "gua_name": "泽天夬",
+    "yao_position": "九泗",
+    "yao_text": "臀无肤，其行次且。牵羊悔亡，闻言不信。",
+    "translation": "臀部磨破皮肤，走路迟疑。像牵羊顺势而行悔恨消散，听到忠告却不肯相信。",
+    "interpretation": "做事犹豫不决进度拖沓，听取别人的劝告，不要固执己见。"
+  },
+  {
+    "id": 257,
+    "gua_id": 43,
+    "gua_name": "泽天夬",
+    "yao_position": "九五",
+    "yao_text": "苋陆夬夬，中行无咎。",
+    "translation": "如同铲除马齿苋一样果断清除隐患，秉持中道没有过失。",
+    "interpretation": "干净利落解决遗留问题，处理的时候把握分寸不走极端。"
+  },
+  {
+    "id": 258,
+    "gua_id": 43,
+    "gua_name": "泽天夬",
+    "yao_position": "上六",
+    "yao_text": "无号，终有凶。",
+    "translation": "不必痛哭哀嚎，姑息纵容最终必有凶险。",
+    "interpretation": "一味妥协退让不果断切割，最后一定会酿成大祸。"
+  },
+  {
+    "id": 259,
+    "gua_id": 44,
+    "gua_name": "天风姤",
+    "yao_position": "初六",
+    "yao_text": "系于金柅，贞吉。有攸往，见凶，羸豕孚蹢躅。",
+    "translation": "捆绑在金属刹车之上，守正吉祥。贸然前行遇凶，瘦弱母猪躁动不安。",
+    "interpretation": "刚刚出现新际遇，先稳住刹车不要立刻全力入局，看清风险。"
+  },
+  {
+    "id": 260,
+    "gua_id": 44,
+    "gua_name": "天风姤",
+    "yao_position": "九二",
+    "yao_text": "包有鱼，无咎，不利宾。",
+    "translation": "厨房里藏着鱼，没有过失，不宜拿出来招待外人。",
+    "interpretation": "机会刚出现先自己把握，暂时不要向外大肆宣扬。"
+  },
+  {
+    "id": 261,
+    "gua_id": 44,
+    "gua_name": "天风姤",
+    "yao_position": "九三",
+    "yao_text": "臀无肤，其行次且，厉，无大咎。",
+    "translation": "臀部磨破，走路迟疑，处境危险，没有重大过错。",
+    "interpretation": "机会擦肩而过，行动犹豫不决，虽有波折不会彻底崩盘。"
+  },
+  {
+    "id": 262,
+    "gua_id": 44,
+    "gua_name": "天风姤",
+    "yao_position": "九泗",
+    "yao_text": "包无鱼，起凶。",
+    "translation": "厨房没有鱼，强行起事招来凶险。",
+    "interpretation": "机会已经错失，强行硬做只会给自己招来麻烦。"
+  },
+  {
+    "id": 263,
+    "gua_id": 44,
+    "gua_name": "天风姤",
+    "yao_position": "九五",
+    "yao_text": "以杞包瓜，含章，有陨自天。",
+    "translation": "杞树叶包裹瓜果，蕴藏文采美德，机遇从天而降。",
+    "interpretation": "沉心积累打磨自己，机缘会自然而然降临到身上。"
+  },
+  {
+    "id": 264,
+    "gua_id": 44,
+    "gua_name": "天风姤",
+    "yao_position": "上九",
+    "yao_text": "姤其角，吝，无咎。",
+    "translation": "相遇在角落，处境尴尬，小有遗憾，没有大过失。",
+    "interpretation": "际遇出现的时机不对，勉强相遇很难成事，不必强求。"
+  },
+  {
+    "id": 265,
+    "gua_id": 45,
+    "gua_name": "泽地萃",
+    "yao_position": "初六",
+    "yao_text": "有孚不终，乃乱乃萃。若号，一握为笑。勿恤，往无咎。",
+    "translation": "诚信不能坚持到底，混乱聚集在一起。呼号沟通，握手言和，不必忧虑，前行无过。",
+    "interpretation": "人心散乱意见不一，主动沟通化解矛盾，凝聚团队共识。"
+  },
+  {
+    "id": 266,
+    "gua_id": 45,
+    "gua_name": "泽地萃",
+    "yao_position": "六二",
+    "yao_text": "引吉，无咎，孚乃利用禴。",
+    "translation": "牵引而来吉祥，没有过失，心怀诚意简单祭祀即可得福。",
+    "interpretation": "靠真诚吸引伙伴前来合作，不必铺张造势。"
+  },
+  {
+    "id": 267,
+    "gua_id": 45,
+    "gua_name": "泽地萃",
+    "yao_position": "六三",
+    "yao_text": "萃如，嗟如，无攸利，往无咎，小吝。",
+    "translation": "众人聚集却哀叹不满，没有收益，前行无大过，小有遗憾。",
+    "interpretation": "团队聚集但是人心不齐，勉强推进很难拿到好结果。"
+  },
+  {
+    "id": 268,
+    "gua_id": 45,
+    "gua_name": "泽地萃",
+    "yao_position": "九泗",
+    "yao_text": "大吉，无咎。",
+    "translation": "大为吉祥，没有过失。",
+    "interpretation": "聚集资源之后顺势发力，做事非常顺利，没有纰漏。"
+  },
+  {
+    "id": 269,
+    "gua_id": 45,
+    "gua_name": "泽地萃",
+    "yao_position": "九五",
+    "yao_text": "萃有位，无咎。匪孚，元永贞，悔亡。",
+    "translation": "聚集众人身居高位，没有过失。尚未完全获得信任，长久守正，悔恨消散。",
+    "interpretation": "身居领导位置，慢慢积累信任，不要急于求成。"
+  },
+  {
+    "id": 270,
+    "gua_id": 45,
+    "gua_name": "泽地萃",
+    "yao_position": "上六",
+    "yao_text": "赍咨涕洟，无咎。",
+    "translation": "叹息流泪，心怀忧虑，没有过失。",
+    "interpretation": "团队聚集之后暗藏危机，心生警醒，提前防范风险。"
+  },
+  {
+    "id": 271,
+    "gua_id": 46,
+    "gua_name": "地风升",
+    "yao_position": "初六",
+    "yao_text": "允升，大吉。",
+    "translation": "诚信稳步上升，大吉。",
+    "interpretation": "踏踏实实一步步往上走，根基扎实，上升之路顺畅。"
+  },
+  {
+    "id": 272,
+    "gua_id": 46,
+    "gua_name": "地风升",
+    "yao_position": "九二",
+    "yao_text": "孚乃利用禴，无咎。",
+    "translation": "心怀诚意简单祭祀，没有过失。",
+    "interpretation": "上升途中用真诚打动贵人，不用过度包装造势。"
+  },
+  {
+    "id": 273,
+    "gua_id": 46,
+    "gua_name": "地风升",
+    "yao_position": "九三",
+    "yao_text": "升虚邑。",
+    "translation": "登上空虚城邑，顺势前行。",
+    "interpretation": "上升路上没有阻碍，一路畅通，可以大胆向前推进。"
+  },
+  {
+    "id": 274,
+    "gua_id": 46,
+    "gua_name": "地风升",
+    "yao_position": "六泗",
+    "yao_text": "王用亨于岐山，吉无咎。",
+    "translation": "君王在岐山祭祀，吉祥无过失。",
+    "interpretation": "获得阶段性成就之后，懂得感恩回馈贵人，稳固上升通道。"
+  },
+  {
+    "id": 275,
+    "gua_id": 46,
+    "gua_name": "地风升",
+    "yao_position": "六五",
+    "yao_text": "贞吉，升阶。",
+    "translation": "守正吉祥，如同一步步登上台阶。",
+    "interpretation": "稳扎稳打逐级晋升，不要想着一步登天越级跳跃。"
+  },
+  {
+    "id": 276,
+    "gua_id": 46,
+    "gua_name": "地风升",
+    "yao_position": "上六",
+    "yao_text": "冥升，利于不息之贞。",
+    "translation": "昏暗之中依旧上升，利于永不停歇坚守正道。",
+    "interpretation": "哪怕看不清前路，持续深耕积累，依旧会缓慢向上成长。"
+  },
+  {
+    "id": 277,
+    "gua_id": 47,
+    "gua_name": "泽水困",
+    "yao_position": "初六",
+    "yao_text": "臀困于株木，入于幽谷，三岁不觌。",
+    "translation": "臀部困在树干，进入幽暗山谷，多年不见天日。",
+    "interpretation": "陷入低谷困局很长时间，不要急着强行突围，蛰伏蓄力。"
+  },
+  {
+    "id": 278,
+    "gua_id": 47,
+    "gua_name": "泽水困",
+    "yao_position": "九二",
+    "yao_text": "困于酒食，朱绂方来，利用亨祀，征凶，无咎。",
+    "translation": "困于酒食享乐之中，富贵即将到来，适合诚心祭祀，贸然前行凶险，无过失。",
+    "interpretation": "物质条件尚可但是精神被困，守住本心等待转机，不要乱折腾。"
+  },
+  {
+    "id": 279,
+    "gua_id": 47,
+    "gua_name": "泽水困",
+    "yao_position": "六三",
+    "yao_text": "困于石，据于蒺藜，入于其宫，不见其妻，凶。",
+    "translation": "困在乱石之中，背靠荆棘，回到家中看不到妻子，凶险。",
+    "interpretation": "进退全部都是阻碍，内忧外患，处境非常艰难。"
+  },
+  {
+    "id": 280,
+    "gua_id": 47,
+    "gua_name": "泽水困",
+    "yao_position": "九泗",
+    "yao_text": "来徐徐，困于金车，吝，有终。",
+    "translation": "缓缓前来，被困在华丽车驾旁，小有遗憾，事情可以收尾。",
+    "interpretation": "脱困速度很慢，进程拖沓，但是坚持下去最终可以走出困境。"
+  },
+  {
+    "id": 281,
+    "gua_id": 47,
+    "gua_name": "泽水困",
+    "yao_position": "九五",
+    "yao_text": "劓刖，困于赤绂，乃徐有说，利用祭祀。",
+    "translation": "遭受刑罚，困于权贵束缚，慢慢得以解脱，诚心守正等待时机。",
+    "interpretation": "被规则、人情枷锁困住，不要硬刚，慢慢周旋等待解绑机会。"
+  },
+  {
+    "id": 282,
+    "gua_id": 47,
+    "gua_name": "泽水困",
+    "yao_position": "上六",
+    "yao_text": "困于葛藟，于臲卼，曰动悔。有悔，征吉。",
+    "translation": "被藤蔓缠绕，动荡不安，一动就心生悔恨。懂得反思悔过，主动求变前行可得吉祥。",
+    "interpretation": "被琐事层层缠绕，主动做出改变，打破僵局走出困境。"
+  },
+  {
+    "id": 283,
+    "gua_id": 48,
+    "gua_name": "水风井",
+    "yao_position": "初六",
+    "yao_text": "井泥不食，旧井无禽。",
+    "translation": "井底全是淤泥无法饮用，老旧枯井连飞鸟都不来。",
+    "interpretation": "价值已经枯竭，不再产出养分，需要彻底翻新调整。"
+  },
+  {
+    "id": 284,
+    "gua_id": 48,
+    "gua_name": "水风井",
+    "yao_position": "九二",
+    "yao_text": "井谷射鲋，瓮敝漏。",
+    "translation": "井底缝隙射小鱼，瓦罐破旧漏水。",
+    "interpretation": "格局狭小只能做小事，承载能力不足，很难做成大事。"
+  },
+  {
+    "id": 285,
+    "gua_id": 48,
+    "gua_name": "水风井",
+    "yao_position": "九三",
+    "yao_text": "井渫不食，为我心恻，可用汲，王明，并受其福。",
+    "translation": "井水清理干净却没人饮用，内心惋惜。可以取水，君王贤明，一同享受福泽。",
+    "interpretation": "自身能力打磨完成，但是没人赏识，等待机会被伯乐发现。"
+  },
+  {
+    "id": 286,
+    "gua_id": 48,
+    "gua_name": "水风井",
+    "yao_position": "六泗",
+    "yao_text": "井甃，无咎。",
+    "translation": "修砌井壁，没有过失。",
+    "interpretation": "修复完善底层架构，夯实基础，把底盘加固。"
+  },
+  {
+    "id": 287,
+    "gua_id": 48,
+    "gua_name": "水风井",
+    "yao_position": "九五",
+    "yao_text": "井冽，寒泉食。",
+    "translation": "井水清澈甘冽，清泉可以饮用。",
+    "interpretation": "自身价值打磨成熟，可以稳定输出，源源不断提供能量。"
+  },
+  {
+    "id": 288,
+    "gua_id": 48,
+    "gua_name": "水风井",
+    "yao_position": "上六",
+    "yao_text": "井收勿幕，有孚元吉。",
+    "translation": "井水修好不要盖住井口，心怀诚信大吉。",
+    "interpretation": "持续开放输出自己的价值，不要藏着掖着，长久获得收益。"
+  },
+  {
+    "id": 289,
+    "gua_id": 49,
+    "gua_name": "泽火革",
+    "yao_position": "初九",
+    "yao_text": "巩用黄牛之革。",
+    "translation": "用黄牛皮牢牢捆住，不可轻易变动。",
+    "interpretation": "变革初期不要贸然大改，先稳住根基，谨慎筹备。"
+  },
+  {
+    "id": 290,
+    "gua_id": 49,
+    "gua_name": "泽火革",
+    "yao_position": "六二",
+    "yao_text": "己日乃革之，征吉，无咎。",
+    "translation": "时机成熟果断变革，前行吉祥，没有过失。",
+    "interpretation": "等到窗口期到来，立刻启动改革，不要犹豫不决。"
+  },
+  {
+    "id": 291,
+    "gua_id": 49,
+    "gua_name": "泽火革",
+    "yao_position": "九三",
+    "yao_text": "征凶，贞厉。革言三就，有孚。",
+    "translation": "贸然变革凶险，守正也有危机。改革方案反复打磨完善，获得信任。",
+    "interpretation": "改革方案不要一拍脑袋就上，反复论证多次打磨再落地。"
+  },
+  {
+    "id": 292,
+    "gua_id": 49,
+    "gua_name": "泽火革",
+    "yao_position": "九泗",
+    "yao_text": "悔亡，有孚改命，吉。",
+    "translation": "悔恨消散，诚信变革扭转局面，吉祥。",
+    "interpretation": "用真诚落地改革，打破旧格局，彻底扭转运势。"
+  },
+  {
+    "id": 293,
+    "gua_id": 49,
+    "gua_name": "泽火革",
+    "yao_position": "九五",
+    "yao_text": "大人虎变，未占，有孚。",
+    "translation": "君子变革如同猛虎换毛，不用占卜，自带威信让人信服。",
+    "interpretation": "有实力之后大刀阔斧改革，气场足够，众人自然追随。"
+  },
+  {
+    "id": 294,
+    "gua_id": 49,
+    "gua_name": "泽火革",
+    "yao_position": "上六",
+    "yao_text": "君子豹变，小人革面。征凶，居贞吉。",
+    "translation": "君子如同豹子换纹，小人表面改变。贸然前行凶险，安守正道吉祥。",
+    "interpretation": "改革到后期，只改变表面没有内核转变，不要继续激进扩张，稳住成果。"
+  },
+  {
+    "id": 295,
+    "gua_id": 50,
+    "gua_name": "火风鼎",
+    "yao_position": "初六",
+    "yao_text": "鼎颠趾，利出否，得妾以其子，无咎。",
+    "translation": "鼎足颠倒，利于倒出糟粕，纳妾生子，没有过失。",
+    "interpretation": "推翻旧格局，清理掉无用糟粕，重新搭建新体系。"
+  },
+  {
+    "id": 296,
+    "gua_id": 50,
+    "gua_name": "火风鼎",
+    "yao_position": "九二",
+    "yao_text": "鼎有实，我仇有疾，不我能即，吉。",
+    "translation": "鼎中装满食物，对手有隐患，无法来侵扰自己，吉祥。",
+    "interpretation": "自身储备充足，对手自顾不暇，安心稳步发展。"
+  },
+  {
+    "id": 297,
+    "gua_id": 50,
+    "gua_name": "火风鼎",
+    "yao_position": "九三",
+    "yao_text": "鼎耳革，其行塞，雉膏不食，方雨亏悔，终吉。",
+    "translation": "鼎耳损坏无法搬动，前路阻塞，美食无法享用，天降大雨消除隐患，结局吉祥。",
+    "interpretation": "新体系刚搭建出现小故障，短暂停滞，调整之后慢慢恢复顺畅。"
+  },
+  {
+    "id": 298,
+    "gua_id": 50,
+    "gua_name": "火风鼎",
+    "yao_position": "九泗",
+    "yao_text": "鼎折足，覆公餗，其形渥，凶。",
+    "translation": "鼎足折断，美食打翻，汤汁四溅，凶险。",
+    "interpretation": "底层支撑不足，体系直接崩塌，重大项目彻底翻车。"
+  },
+  {
+    "id": 299,
+    "gua_id": 50,
+    "gua_name": "火风鼎",
+    "yao_position": "六五",
+    "yao_text": "鼎黄耳金铉，利贞。",
+    "translation": "鼎配上黄色鼎耳金属提杆，利于守正。",
+    "interpretation": "完善配套设施，补齐关键环节，体系稳固可以长久运行。"
+  },
+  {
+    "id": 300,
+    "gua_id": 50,
+    "gua_name": "火风鼎",
+    "yao_position": "上九",
+    "yao_text": "鼎玉铉，大吉，无不利。",
+    "translation": "鼎配有玉制提杆，大为吉祥，万事顺利。",
+    "interpretation": "体系打磨完善，质感与实力兼备，长期稳定输出价值。"
+  },
+  {
+    "id": 301,
+    "gua_id": 51,
+    "gua_name": "震为雷",
+    "yao_position": "初九",
+    "yao_text": "震来虩虩，笑言哑哑。震惊百里，不丧匕鬯。",
+    "translation": "惊雷来袭惶恐戒备，之后谈笑如常。惊雷震动百里，镇定不失祭器。",
+    "interpretation": "突发变故之后迅速冷静，稳住心态，不慌乱做出决策。"
+  },
+  {
+    "id": 302,
+    "gua_id": 51,
+    "gua_name": "震为雷",
+    "yao_position": "六二",
+    "yao_text": "震来厉，亿丧贝，跻于九陵，勿逐，七日得。",
+    "translation": "惊雷袭来危险，损失钱财，登上高山躲避，不用追逐，七日之内失而复得。",
+    "interpretation": "突发意外造成损失，不必拼命追回，耐心等待自然恢复。"
+  },
+  {
+    "id": 303,
+    "gua_id": 51,
+    "gua_name": "震为雷",
+    "yao_position": "六三",
+    "yao_text": "震苏苏，震行无眚。",
+    "translation": "惊雷震动惶恐不安，及时行动避开灾祸。",
+    "interpretation": "感受到危机信号，立刻行动调整，规避后续更大风险。"
+  },
+  {
+    "id": 304,
+    "gua_id": 51,
+    "gua_name": "震为雷",
+    "yao_position": "九泗",
+    "yao_text": "震遂泥。",
+    "translation": "惊雷坠入泥沼之中，震动力量消散。",
+    "interpretation": "危机爆发到一半后劲不足，风波慢慢平息，不用过度恐慌。"
+  },
+  {
+    "id": 305,
+    "gua_id": 51,
+    "gua_name": "震为雷",
+    "yao_position": "六五",
+    "yao_text": "震往来厉，亿无丧，有事。",
+    "translation": "惊雷来回震动危机四伏，守住根本不会损失，需要谨慎行事。",
+    "interpretation": "变故一波接一波，守住核心资产，不要随意冒险。"
+  },
+  {
+    "id": 306,
+    "gua_id": 51,
+    "gua_name": "震为雷",
+    "yao_position": "上六",
+    "yao_text": "震索索，视矍矍，征凶。震不于其躬，于其邻，无咎。婚媾有言。",
+    "translation": "惊雷之下双腿发抖眼神惊恐，贸然前行凶险。灾祸没有落到自己身上，殃及邻居，没有过失，合作会有闲言。",
+    "interpretation": "危机先波及身边人，提前做好防护，避免灾祸传导到自己身上。"
+  },
+  {
+    "id": 307,
+    "gua_id": 52,
+    "gua_name": "艮为山",
+    "yao_position": "初六",
+    "yao_text": "艮其趾，无咎，利永贞。",
+    "translation": "止住脚步，不要前行，没有过失，利于长久守正。",
+    "interpretation": "事情刚起步及时踩刹车，及时止损，不要继续往下走。"
+  },
+  {
+    "id": 308,
+    "gua_id": 52,
+    "gua_name": "艮为山",
+    "yao_position": "六二",
+    "yao_text": "艮其腓，不拯其随，其心不快。",
+    "translation": "止住小腿，无法挽救跟随之人，内心郁闷不快。",
+    "interpretation": "自己可以停下，但是带不动身边人，不必为此内耗焦虑。"
+  },
+  {
+    "id": 309,
+    "gua_id": 52,
+    "gua_name": "艮为山",
+    "yao_position": "九三",
+    "yao_text": "艮其限，列其夤，厉薰心。",
+    "translation": "止住腰部，撕裂脊背，危险煎熬内心。",
+    "interpretation": "强行卡在中间进退不得，内心极度煎熬，需要做出取舍。"
+  },
+  {
+    "id": 310,
+    "gua_id": 52,
+    "gua_name": "艮为山",
+    "yao_position": "六泗",
+    "yao_text": "艮其身，无咎。",
+    "translation": "止住自身行动，收敛自己，没有过失。",
+    "interpretation": "停止向外折腾，把注意力收回自身，修身沉淀。"
+  },
+  {
+    "id": 311,
+    "gua_id": 52,
+    "gua_name": "艮为山",
+    "yao_position": "六五",
+    "yao_text": "艮其辅，言有序，悔亡。",
+    "translation": "管住嘴巴，说话条理有度，悔恨消散。",
+    "interpretation": "谨慎说话，不要随口乱说，减少口舌是非。"
+  },
+  {
+    "id": 312,
+    "gua_id": 52,
+    "gua_name": "艮为山",
+    "yao_position": "上九",
+    "yao_text": "敦艮，吉。",
+    "translation": "敦厚坚定懂得适可而止，吉祥。",
+    "interpretation": "知道什么时候该停下，懂得留白，不贪多冒进。"
+  },
+  {
+    "id": 313,
+    "gua_id": 53,
+    "gua_name": "风山渐",
+    "yao_position": "初六",
+    "yao_text": "鸿渐于干，小子厉，有言，无咎。",
+    "translation": "鸿雁慢慢飞到水岸，年少之人有危险，受到非议，无大过失。",
+    "interpretation": "刚开始起步阶段根基尚浅，容易被质疑，稳步积累不用急于证明自己。"
+  },
+  {
+    "id": 314,
+    "gua_id": 53,
+    "gua_name": "风山渐",
+    "yao_position": "六二",
+    "yao_text": "鸿渐于磐，饮食衎衎，吉。",
+    "translation": "鸿雁飞到磐石之上，安稳进食喜乐，吉祥。",
+    "interpretation": "慢慢站稳脚跟，局面趋于稳定，可以安心蓄力发展。"
+  },
+  {
+    "id": 315,
+    "gua_id": 53,
+    "gua_name": "风山渐",
+    "yao_position": "九三",
+    "yao_text": "鸿渐于陆，夫征不复，妇孕不育，凶；利御寇。",
+    "translation": "鸿雁飞到高地，丈夫出征不回，妻子怀孕流产，凶险；适合防御自保。",
+    "interpretation": "发展过快脱离根基，容易出现重大损失，优先防守不要扩张。"
+  },
+  {
+    "id": 316,
+    "gua_id": 53,
+    "gua_name": "风山渐",
+    "yao_position": "六泗",
+    "yao_text": "鸿渐于木，或得其桷，无咎。",
+    "translation": "鸿雁飞到树上，找到平整树枝落脚，没有过失。",
+    "interpretation": "找到新的合适落脚点，换赛道过渡，平稳转换方向。"
+  },
+  {
+    "id": 317,
+    "gua_id": 53,
+    "gua_name": "风山渐",
+    "yao_position": "九五",
+    "yao_text": "鸿渐于陵，妇三岁不孕，终莫之胜，吉。",
+    "translation": "鸿雁飞到山陵，妻子多年无法怀孕，最终阻碍被打破，吉祥。",
+    "interpretation": "长期发展之中遭遇漫长瓶颈，熬过去之后迎来突破。"
+  },
+  {
+    "id": 318,
+    "gua_id": 53,
+    "gua_name": "风山渐",
+    "yao_position": "上九",
+    "yao_text": "鸿渐于陆，其羽可用为仪，吉。",
+    "translation": "鸿雁飞到高空平地，羽毛可以作为礼仪装饰，吉祥。",
+    "interpretation": "长期稳步成长之后，自身形成价值，获得名望与认可。"
+  },
+  {
+    "id": 319,
+    "gua_id": 54,
+    "gua_name": "雷泽归妹",
+    "yao_position": "初九",
+    "yao_text": "归妹以娣，跛能履，征吉。",
+    "translation": "少女作为陪嫁出嫁，脚跛勉强行走，前行吉祥。",
+    "interpretation": "作为辅助配角配合做事，能力虽有不足，踏实推进可以成事。"
+  },
+  {
+    "id": 320,
+    "gua_id": 54,
+    "gua_name": "雷泽归妹",
+    "yao_position": "九二",
+    "yao_text": "眇能视，利幽人之贞。",
+    "translation": "眼盲勉强看清，适合隐士安守正道。",
+    "interpretation": "视野受限看不清全局，不要做大决策，低调稳住现状。"
+  },
+  {
+    "id": 321,
+    "gua_id": 54,
+    "gua_name": "雷泽归妹",
+    "yao_position": "六三",
+    "yao_text": "归妹以须，反归以娣。",
+    "translation": "少女等待出嫁，最后只能作为陪嫁返回。",
+    "interpretation": "心气太高等待更好机会，最后只能退而求其次，错失良机。"
+  },
+  {
+    "id": 322,
+    "gua_id": 54,
+    "gua_name": "雷泽归妹",
+    "yao_position": "九泗",
+    "yao_text": "归妹愆期，迟归有时。",
+    "translation": "婚期延误推迟出嫁，等待合适时机再行动。",
+    "interpretation": "时机尚未成熟，不要强行推进，耐心等待窗口期。"
+  },
+  {
+    "id": 323,
+    "gua_id": 54,
+    "gua_name": "雷泽归妹",
+    "yao_position": "六五",
+    "yao_text": "帝乙归妹，其君之袂不如其娣之袂良，月几望，吉。",
+    "translation": "帝王嫁妹，正妻服饰反而不如陪嫁华丽，月圆将近，吉祥。",
+    "interpretation": "不必追求表面风光，务实低调反而能长久安稳。"
+  },
+  {
+    "id": 324,
+    "gua_id": 54,
+    "gua_name": "雷泽归妹",
+    "yao_position": "上六",
+    "yao_text": "女承筐无实，士刲羊无血，无攸利。",
+    "translation": "女子捧着空筐，男子杀羊不见血，没有收获。",
+    "interpretation": "勉强凑成合作，双方都没有实质收益，合作很难长久。"
+  },
+  {
+    "id": 325,
+    "gua_id": 55,
+    "gua_name": "雷火丰",
+    "yao_position": "初九",
+    "yao_text": "遇其配主，虽旬无咎，往有尚。",
+    "translation": "遇到相合的主事之人，合作十日之内无过失，前行受人推崇。",
+    "interpretation": "遇到同频搭档，顺势合作，短期之内可以拿到不错成果。"
+  },
+  {
+    "id": 326,
+    "gua_id": 55,
+    "gua_name": "雷火丰",
+    "yao_position": "六二",
+    "yao_text": "丰其蔀，日中见斗，往得疑疾，有孚发若，吉。",
+    "translation": "盛大却被遮蔽，正午看见星斗，前行遭受猜忌，坦诚释放诚意可得吉祥。",
+    "interpretation": "事业鼎盛但是被阴影遮蔽，别人猜忌你，主动坦诚化解怀疑。"
+  },
+  {
+    "id": 327,
+    "gua_id": 55,
+    "gua_name": "雷火丰",
+    "yao_position": "九三",
+    "yao_text": "丰其沛，日中见沫，折其右肱，无咎。",
+    "translation": "盛大更加昏暗，正午看见微光，折断右臂，没有重大过失。",
+    "interpretation": "高光之下隐患爆发，核心力量受损，及时止损保全大局。"
+  },
+  {
+    "id": 328,
+    "gua_id": 55,
+    "gua_name": "雷火丰",
+    "yao_position": "九泗",
+    "yao_text": "丰其蔀，日中见斗，遇其夷主，吉。",
+    "translation": "盛大被遮蔽，正午看见星斗，遇到志同道合的主人，吉祥。",
+    "interpretation": "局面蒙上阴影看不清前路，遇到贵人相助拨开迷雾。"
+  },
+  {
+    "id": 329,
+    "gua_id": 55,
+    "gua_name": "雷火丰",
+    "yao_position": "六五",
+    "yao_text": "来章，有庆誉，吉。",
+    "translation": "迎来光彩彰显才华，收获喜庆赞誉，吉祥。",
+    "interpretation": "自身能力被看见，名声与收益随之而来。"
+  },
+  {
+    "id": 330,
+    "gua_id": 55,
+    "gua_name": "雷火丰",
+    "yao_position": "上六",
+    "yao_text": "丰其屋，蔀其家，窥其户，阒其无人，三岁不觌，凶。",
+    "translation": "房屋盛大高大，遮蔽家中，门缝窥视空无一人，多年不见人影，凶险。",
+    "interpretation": "外表光鲜内里空虚，繁华散尽之后只剩空洞，提前布局后路。"
+  },
+  {
+    "id": 331,
+    "gua_id": 56,
+    "gua_name": "火山旅",
+    "yao_position": "初六",
+    "yao_text": "旅琐琐，斯其所取灾。",
+    "translation": "旅途之中猥琐小气，招来灾祸。",
+    "interpretation": "漂泊不稳定时期不要斤斤计较，格局太小容易惹麻烦。"
+  },
+  {
+    "id": 332,
+    "gua_id": 56,
+    "gua_name": "火山旅",
+    "yao_position": "六二",
+    "yao_text": "旅即次，怀其资，得童仆贞。",
+    "translation": "旅客住进客栈，怀揣钱财，得到忠心仆人。",
+    "interpretation": "不稳定过渡期先安顿好自己，储备资源，找到靠谱帮手。"
+  },
+  {
+    "id": 333,
+    "gua_id": 56,
+    "gua_name": "火山旅",
+    "yao_position": "九三",
+    "yao_text": "旅焚其次，丧其童仆，贞厉。",
+    "translation": "客栈被大火烧毁，仆人逃走，守正仍有危机。",
+    "interpretation": "临时落脚点出现变故，帮手离开，局面雪上加霜。"
+  },
+  {
+    "id": 334,
+    "gua_id": 56,
+    "gua_name": "火山旅",
+    "yao_position": "九泗",
+    "yao_text": "旅于处，得其资斧，我心不快。",
+    "translation": "找到临时住处，赚到钱财物资，内心依旧郁郁不乐。",
+    "interpretation": "虽然赚到收益，但是内心没有归属感，依旧处于漂泊状态。"
+  },
+  {
+    "id": 335,
+    "gua_id": 56,
+    "gua_name": "火山旅",
+    "yao_position": "六五",
+    "yao_text": "射雉，一矢亡，终以誉命。",
+    "translation": "射猎野鸡，损失一支箭，最终收获名誉封赏。",
+    "interpretation": "做事付出一点小代价，长期换来声望认可，整体划算。"
+  },
+  {
+    "id": 336,
+    "gua_id": 56,
+    "gua_name": "火山旅",
+    "yao_position": "上九",
+    "yao_text": "鸟焚其巢，旅人先笑后号咷。丧牛于易，凶。",
+    "translation": "鸟巢被大火焚烧，旅人先欢笑而后大哭，丢失牛羊，凶险。",
+    "interpretation": "短期得意忘形，乐极生悲，彻底失去立足之地。"
+  },
+  {
+    "id": 337,
+    "gua_id": 57,
+    "gua_name": "巽为风",
+    "yao_position": "初六",
+    "yao_text": "进退，利武人之贞。",
+    "translation": "进退犹豫不决，适合刚毅之人坚定守正。",
+    "interpretation": "做事摇摆不定，需要下定决心，不要反复纠结。"
+  },
+  {
+    "id": 338,
+    "gua_id": 57,
+    "gua_name": "巽为风",
+    "yao_position": "九二",
+    "yao_text": "巽在床下，用史巫纷若，吉无咎。",
+    "translation": "谦卑屈居床下，诚心祷告沟通，吉祥没有过失。",
+    "interpretation": "姿态放低柔和沟通，用谦卑方式推进事情。"
+  },
+  {
+    "id": 339,
+    "gua_id": 57,
+    "gua_name": "巽为风",
+    "yao_position": "九三",
+    "yao_text": "频巽，吝。",
+    "translation": "反复谦卑摇摆，留有遗憾。",
+    "interpretation": "一味退让讨好，没有自己立场，很难做成大事。"
+  },
+  {
+    "id": 340,
+    "gua_id": 57,
+    "gua_name": "巽为风",
+    "yao_position": "六泗",
+    "yao_text": "悔亡，田获三品。",
+    "translation": "悔恨消散，打猎收获多种猎物。",
+    "interpretation": "柔和渗透推进之后，拿到多重收益，收获颇丰。"
+  },
+  {
+    "id": 341,
+    "gua_id": 57,
+    "gua_name": "巽为风",
+    "yao_position": "九五",
+    "yao_text": "贞吉悔亡，无不利。无初有终，先庚三日，后庚三日，吉。",
+    "translation": "守正吉祥悔恨消散，万事顺利。开局艰难善终，提前规划筹备，吉祥。",
+    "interpretation": "前期铺垫摸索，做好完整规划，后期推进一路顺畅。"
+  },
+  {
+    "id": 342,
+    "gua_id": 57,
+    "gua_name": "巽为风",
+    "yao_position": "上九",
+    "yao_text": "巽在床下，丧其资斧，贞凶。",
+    "translation": "谦卑过度屈居床下，丢失钱财本钱，守正也有凶险。",
+    "interpretation": "一味放低姿态退让，失去自己的筹码与主动权，陷入被动。"
+  },
+  {
+    "id": 343,
+    "gua_id": 58,
+    "gua_name": "兑为泽",
+    "yao_position": "初九",
+    "yao_text": "和兑，吉。",
+    "translation": "平和喜悦待人，没有心机，可得吉祥。",
+    "interpretation": "与人相处心态平和友善，不要刻意讨好，真诚自然最舒服。"
+  },
+  {
+    "id": 344,
+    "gua_id": 58,
+    "gua_name": "兑为泽",
+    "yao_position": "九二",
+    "yao_text": "孚兑，吉，悔亡。",
+    "translation": "心怀诚信而喜悦，吉祥，内心遗憾消散。",
+    "interpretation": "带着真心与人交流，不虚伪奉承，矛盾隔阂会慢慢化解。"
+  },
+  {
+    "id": 345,
+    "gua_id": 58,
+    "gua_name": "兑为泽",
+    "yao_position": "六三",
+    "yao_text": "来兑，凶。",
+    "translation": "主动前来谄媚取悦，暗藏凶险。",
+    "interpretation": "刻意讨好、曲意逢迎换取好感，很难得到长久尊重。"
+  },
+  {
+    "id": 346,
+    "gua_id": 58,
+    "gua_name": "兑为泽",
+    "yao_position": "九泗",
+    "yao_text": "商兑，未宁，介疾有喜。",
+    "translation": "反复斟酌商议，内心尚未安宁，除去弊病之后迎来好事。",
+    "interpretation": "沟通来回拉扯难以定论，先理清自身问题，转机才会出现。"
+  },
+  {
+    "id": 347,
+    "gua_id": 58,
+    "gua_name": "兑为泽",
+    "yao_position": "九五",
+    "yao_text": "孚于剥，有厉。",
+    "translation": "轻信巧言善辩之人，存在危险。",
+    "interpretation": "不要轻易相信花言巧语，警惕他人用甜言蜜语算计你。"
+  },
+  {
+    "id": 348,
+    "gua_id": 58,
+    "gua_name": "兑为泽",
+    "yao_position": "上六",
+    "yao_text": "引兑。",
+    "translation": "引诱他人一同取悦，格局有限。",
+    "interpretation": "依靠拉拢哄骗维持关系，根基不稳，很难长久维系。"
+  },
+  {
+    "id": 349,
+    "gua_id": 59,
+    "gua_name": "风水涣",
+    "yao_position": "初六",
+    "yao_text": "用拯马壮，吉。",
+    "translation": "借助强壮马匹拯救脱险，吉祥。",
+    "interpretation": "遭遇涣散危机，主动借力靠谱伙伴，及时脱离困境。"
+  },
+  {
+    "id": 350,
+    "gua_id": 59,
+    "gua_name": "风水涣",
+    "yao_position": "九二",
+    "yao_text": "涣奔其机，悔亡。",
+    "translation": "涣散之时奔赴安稳据点，悔恨消散。",
+    "interpretation": "局面开始解体，尽快找到可靠落脚点，稳住自身。"
+  },
+  {
+    "id": 351,
+    "gua_id": 59,
+    "gua_name": "风水涣",
+    "yao_position": "六三",
+    "yao_text": "涣其躬，无悔。",
+    "translation": "放下自身私欲投身大局，没有悔恨。",
+    "interpretation": "放下个人得失，主动融入整体调整，不必纠结个人利益。"
+  },
+  {
+    "id": 352,
+    "gua_id": 59,
+    "gua_name": "风水涣",
+    "yao_position": "六泗",
+    "yao_text": "涣其群，元吉。涣有丘，匪夷所思。",
+    "translation": "解散小团体私心，大吉；凝聚力量如同山丘，格局超出常人想象。",
+    "interpretation": "打破小圈子壁垒，整合分散资源，能做成常人难以完成的事。"
+  },
+  {
+    "id": 353,
+    "gua_id": 59,
+    "gua_name": "风水涣",
+    "yao_position": "九五",
+    "yao_text": "涣汗其大号，涣王居，无咎。",
+    "translation": "像出汗一样发布政令，疏散固有壁垒，身居高位无过失。",
+    "interpretation": "大胆推行调整方案，放开固有束缚，重新整合资源。"
+  },
+  {
+    "id": 354,
+    "gua_id": 59,
+    "gua_name": "风水涣",
+    "yao_position": "上九",
+    "yao_text": "涣其血，去逖出，无咎。",
+    "translation": "消除伤害与忧患，远离危险之地，没有过失。",
+    "interpretation": "彻底摆脱纷争漩涡，远离是非圈子，规避持续损耗。"
+  },
+  {
+    "id": 355,
+    "gua_id": 60,
+    "gua_name": "水泽节",
+    "yao_position": "初九",
+    "yao_text": "不出户庭，无咎。",
+    "translation": "足不出户谨慎行事，没有过失。",
+    "interpretation": "计划尚未成熟，不要向外宣扬，低调筹备。"
+  },
+  {
+    "id": 356,
+    "gua_id": 60,
+    "gua_name": "水泽节",
+    "yao_position": "九二",
+    "yao_text": "不出门庭，凶。",
+    "translation": "固守家中闭门不出，错失时机，凶险。",
+    "interpretation": "时机到来还持续封闭自己，会白白错过窗口期。"
+  },
+  {
+    "id": 357,
+    "gua_id": 60,
+    "gua_name": "水泽节",
+    "yao_position": "六三",
+    "yao_text": "不节若，则嗟若，无咎。",
+    "translation": "不懂节制造成损失，事后叹息自省，及时醒悟则无大过。",
+    "interpretation": "挥霍透支之后懂得反思，及时调整习惯，尚能止损。"
+  },
+  {
+    "id": 358,
+    "gua_id": 60,
+    "gua_name": "水泽节",
+    "yao_position": "六泗",
+    "yao_text": "安节，亨。",
+    "translation": "心安理得恪守节制，行事通达顺利。",
+    "interpretation": "自然而然建立自律边界，不用勉强自己，长久受益。"
+  },
+  {
+    "id": 359,
+    "gua_id": 60,
+    "gua_name": "水泽节",
+    "yao_position": "九五",
+    "yao_text": "甘节，吉，往有尚。",
+    "translation": "适度节制恰到好处，吉祥，前行会受人推崇。",
+    "interpretation": "约束把握分寸，不过分苛刻自己，做事受人认可。"
+  },
+  {
+    "id": 360,
+    "gua_id": 60,
+    "gua_name": "水泽节",
+    "yao_position": "上六",
+    "yao_text": "苦节，贞凶，悔亡。",
+    "translation": "过度严苛节制，固守不变有凶险，醒悟后方能化解。",
+    "interpretation": "不要极端苛责自己，紧绷到极限容易崩盘，学会适度放松。"
+  },
+  {
+    "id": 361,
+    "gua_id": 61,
+    "gua_name": "风泽中孚",
+    "yao_position": "初九",
+    "yao_text": "虞吉，有它不燕。",
+    "translation": "预先戒备可得吉祥，若有别的变故难以安宁。",
+    "interpretation": "提前做好防备，一旦分心贪心，很难保持安稳。"
+  },
+  {
+    "id": 362,
+    "gua_id": 61,
+    "gua_name": "风泽中孚",
+    "yao_position": "九二",
+    "yao_text": "鸣鹤在阴，其子和之；我有好爵，吾与尔靡之。",
+    "translation": "鹤在树荫鸣叫，同类相互应和；拥有美酒，愿意与你共享。",
+    "interpretation": "真诚的人自然相互吸引，志同道合之人可以共享机遇。"
+  },
+  {
+    "id": 363,
+    "gua_id": 61,
+    "gua_name": "风泽中孚",
+    "yao_position": "六三",
+    "yao_text": "得敌，或鼓或罢，或泣或歌。",
+    "translation": "遇上对手，时而进攻时而停歇，时而悲戚时而欢歌。",
+    "interpretation": "局势摇摆不定，心态起伏很大，先稳住情绪再做抉择。"
+  },
+  {
+    "id": 364,
+    "gua_id": 61,
+    "gua_name": "风泽中孚",
+    "yao_position": "六泗",
+    "yao_text": "月几望，马匹亡，无咎。",
+    "translation": "月亮将近圆满，失去马匹，没有过失。",
+    "interpretation": "主动舍弃次要牵绊，专注核心目标，不必惋惜局部损失。"
+  },
+  {
+    "id": 365,
+    "gua_id": 61,
+    "gua_name": "风泽中孚",
+    "yao_position": "九五",
+    "yao_text": "有孚挛如，无咎。",
+    "translation": "诚信紧密联结众人，没有过失。",
+    "interpretation": "坚守信用凝聚伙伴，彼此信任，合作稳固。"
+  },
+  {
+    "id": 366,
+    "gua_id": 61,
+    "gua_name": "风泽中孚",
+    "yao_position": "上九",
+    "yao_text": "翰音登于天，贞凶。",
+    "translation": "鸡鸣之声响彻高空，虚声远扬，固守现状有凶险。",
+    "interpretation": "徒有虚名缺乏实质支撑，不要过度向外宣扬自己。"
+  },
+  {
+    "id": 367,
+    "gua_id": 62,
+    "gua_name": "雷山小过",
+    "yao_position": "初六",
+    "yao_text": "飞鸟以凶。",
+    "translation": "飞鸟径直向上高飞，凶险。",
+    "interpretation": "急于向上冒进，根基不稳，盲目行动容易遭遇挫折。"
+  },
+  {
+    "id": 368,
+    "gua_id": 62,
+    "gua_name": "雷山小过",
+    "yao_position": "六二",
+    "yao_text": "过其祖，遇其妣；不及其君，遇其臣，无咎。",
+    "translation": "越过祖父，遇见祖母；不僭越君主，礼遇臣子，没有过失。",
+    "interpretation": "适度变通，但守住尊卑边界，不要越权行事。"
+  },
+  {
+    "id": 369,
+    "gua_id": 62,
+    "gua_name": "雷山小过",
+    "yao_position": "九三",
+    "yao_text": "弗过防之，从或戕之，凶。",
+    "translation": "没有过失也要严加防备，一味顺从他人可能受到伤害，凶险。",
+    "interpretation": "即便当下安稳，也要防范隐患，不要毫无防备轻信他人。"
+  },
+  {
+    "id": 370,
+    "gua_id": 62,
+    "gua_name": "雷山小过",
+    "yao_position": "九泗",
+    "yao_text": "无咎，弗过遇之；往厉必戒，勿用永贞。",
+    "translation": "没有过失，不必主动求进，机缘自来；前行有危险，时刻警惕，不可长久固守。",
+    "interpretation": "静待机遇不要主动强求，机会出现也要小心风险。"
+  },
+  {
+    "id": 371,
+    "gua_id": 62,
+    "gua_name": "雷山小过",
+    "yao_position": "六五",
+    "yao_text": "密云不雨，自我西郊；公弋取彼在穴。",
+    "translation": "浓云密布却不下雨，源自西郊；王公拿弓箭猎取巢穴中的猎物。",
+    "interpretation": "条件看似齐备还差关键一环，耐心等待，精准抓住潜藏机会。"
+  },
+  {
+    "id": 372,
+    "gua_id": 62,
+    "gua_name": "雷山小过",
+    "yao_position": "上六",
+    "yao_text": "弗遇过之，飞鸟离之，凶，是谓灾眚。",
+    "translation": "遇不到目标却过度冒进，飞鸟遭遇罗网，招来灾祸。",
+    "interpretation": "强求不属于自己的机遇，贸然激进，极易招致重大损失。"
+  },
+  {
+    "id": 373,
+    "gua_id": 63,
+    "gua_name": "水火既济",
+    "yao_position": "初九",
+    "yao_text": "曳其轮，濡其尾，无咎。",
+    "translation": "拉住车轮减缓速度，小狐尾巴沾湿，没有过失。",
+    "interpretation": "事情快要成功之时放慢节奏，稳扎稳打，避免急于求成翻车。"
+  },
+  {
+    "id": 374,
+    "gua_id": 63,
+    "gua_name": "水火既济",
+    "yao_position": "六二",
+    "yao_text": "妇丧其茀，勿逐，七日得。",
+    "translation": "妇人丢失车帘，不必追逐，七日之内失而复得。",
+    "interpretation": "不必执着眼前失去的东西，耐心等待，事物自有循环转机。"
+  },
+  {
+    "id": 375,
+    "gua_id": 63,
+    "gua_name": "水火既济",
+    "yao_position": "九三",
+    "yao_text": "高宗伐鬼方，三年克之，小人勿用。",
+    "translation": "高宗征讨鬼方，耗时三年才攻克，不可任用小人。",
+    "interpretation": "重大难题需要长期攻坚，过程漫长，谨慎挑选同行伙伴。"
+  },
+  {
+    "id": 376,
+    "gua_id": 63,
+    "gua_name": "水火既济",
+    "yao_position": "六泗",
+    "yao_text": "繻有衣袽，终日戒。",
+    "translation": "备好破布防备漏水，整日保持戒备。",
+    "interpretation": "目标达成也不能放松警惕，提前准备应对突发风险。"
+  },
+  {
+    "id": 377,
+    "gua_id": 63,
+    "gua_name": "水火既济",
+    "yao_position": "九五",
+    "yao_text": "东邻杀牛，不如西邻之禴祭，实受其福。",
+    "translation": "东邻盛大祭祀，不如西邻诚心薄祭，诚心才能承接福运。",
+    "interpretation": "不必追求形式排场，内心真诚务实，远比表面风光重要。"
+  },
+  {
+    "id": 378,
+    "gua_id": 63,
+    "gua_name": "水火既济",
+    "yao_position": "上六",
+    "yao_text": "濡其首，厉。",
+    "translation": "小狐头部被水浸湿，处境危险。",
+    "interpretation": "功成之后持续贪心进取，不懂收手，最终招致危机。"
+  },
+  {
+    "id": 379,
+    "gua_id": 64,
+    "gua_name": "火水未济",
+    "yao_position": "初六",
+    "yao_text": "濡其尾，吝。",
+    "translation": "小狐渡河沾湿尾巴，进退艰难，留有遗憾。",
+    "interpretation": "起步准备不足就贸然行动，半路容易陷入被动局面。"
+  },
+  {
+    "id": 380,
+    "gua_id": 64,
+    "gua_name": "火水未济",
+    "yao_position": "九二",
+    "yao_text": "曳其轮，贞吉。",
+    "translation": "拉住车轮控住速度，守正吉祥。",
+    "interpretation": "事情尚未尘埃落定，控制节奏稳步推进，不要全速冲刺。"
+  },
+  {
+    "id": 381,
+    "gua_id": 64,
+    "gua_name": "火水未济",
+    "yao_position": "六三",
+    "yao_text": "未济，征凶，利涉大川。",
+    "translation": "事业尚未成功，贸然激进有凶险，适合渡过大河寻求突破。",
+    "interpretation": "不要盲目强攻现有局面，可以向外寻求新出路。"
+  },
+  {
+    "id": 382,
+    "gua_id": 64,
+    "gua_name": "火水未济",
+    "yao_position": "九泗",
+    "yao_text": "贞吉，悔亡；震用伐鬼方，三年有赏于大国。",
+    "translation": "守正吉祥，遗憾消散；奋力征讨，历经三年获得封赏。",
+    "interpretation": "长期坚持攻坚克难，熬过漫长周期之后，能够收获回报。"
+  },
+  {
+    "id": 383,
+    "gua_id": 64,
+    "gua_name": "火水未济",
+    "yao_position": "六五",
+    "yao_text": "贞吉，无悔；君子之光，有孚，吉。",
+    "translation": "守正吉祥，没有悔恨；君子散发德行光芒，心怀诚信可得吉祥。",
+    "interpretation": "依靠自身品行与诚信行事，慢慢吸引志同道合之人。"
+  },
+  {
+    "id": 384,
+    "gua_id": 64,
+    "gua_name": "火水未济",
+    "yao_position": "上九",
+    "yao_text": "有孚于饮酒，无咎；濡其首，有孚失是。",
+    "translation": "心怀诚信饮酒休憩本无过失；但若沉溺享乐，即便守信也会迷失正道。",
+    "interpretation": "阶段性休整可以放松，但不可长期沉溺安逸荒废目标。"
+  }
+]

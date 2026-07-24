@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "name": "乾为天",
+    "upper_trigram": "乾",
+    "lower_trigram": "乾",
+    "symbol": "☰☰",
+    "gua_text": "乾：元，亨，利，贞。",
+    "traditional_meaning": "刚健自强，持之以恒，则万事通达。",
+    "modern_summary": "保持自律持续输出，机会都是长期攒出来的。"
+  },
+  {
+    "id": 2,
+    "name": "坤为地",
+    "upper_trigram": "坤",
+    "lower_trigram": "坤",
+    "symbol": "☷☷",
+    "gua_text": "坤：元，亨。利牝马之贞。君子有攸往，先迷后得主，利。",
+    "traditional_meaning": "厚德包容，顺势隐忍，不要强行争先。",
+    "modern_summary": "不必事事抢风头，稳住底盘比一时出彩更重要。"
+  },
+  {
+    "id": 3,
+    "name": "水雷屯",
+    "upper_trigram": "坎",
+    "lower_trigram": "震",
+    "symbol": "☵☳",
+    "gua_text": "屯：元亨，利贞。勿用有攸往，利建侯。",
+    "traditional_meaning": "初创艰难，不要贸然冒进，先打好根基。",
+    "modern_summary": "刚开始起步很难，别急着扩张，先把基础框架搭好。"
+  },
+  {
+    "id": 4,
+    "name": "山水蒙",
+    "upper_trigram": "艮",
+    "lower_trigram": "坎",
+    "symbol": "☶☵",
+    "gua_text": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。",
+    "traditional_meaning": "启蒙解惑，虚心求教，不可反复轻率试探。",
+    "modern_summary": "不懂就主动请教，不要反复纠结内耗浪费时间。"
+  },
+  {
+    "id": 5,
+    "name": "水天需",
+    "upper_trigram": "坎",
+    "lower_trigram": "乾",
+    "symbol": "☵☰",
+    "gua_text": "需：有孚，光亨，贞吉。利涉大川。",
+    "traditional_meaning": "耐心等待时机，守住信心，不要急于出手。",
+    "modern_summary": "时机还没成熟，沉住气蓄力，不要盲目仓促行动。"
+  },
+  {
+    "id": 6,
+    "name": "天水讼",
+    "upper_trigram": "乾",
+    "lower_trigram": "坎",
+    "symbol": "☰☵",
+    "gua_text": "讼：有孚窒，惕中吉，终凶。利见大人，不利涉大川。",
+    "traditional_meaning": "凡事不要争强诉讼，硬碰硬容易两败俱伤。",
+    "modern_summary": "没必要非要争对错，硬刚只会消耗自己，学会妥协迂回。"
+  },
+  {
+    "id": 7,
+    "name": "地水师",
+    "upper_trigram": "坤",
+    "lower_trigram": "坎",
+    "symbol": "☷☵",
+    "gua_text": "师：贞，丈人吉，无咎。",
+    "traditional_meaning": "聚众行事，必须要有可靠主事之人，纪律为先。",
+    "modern_summary": "团队做事一定要明确负责人，多头指挥只会越做越乱。"
+  },
+  {
+    "id": 8,
+    "name": "水地比",
+    "upper_trigram": "坎",
+    "lower_trigram": "坤",
+    "symbol": "☵☷",
+    "gua_text": "比：吉。原筮，元永贞，无咎。不宁方来，后夫凶。",
+    "traditional_meaning": "亲近靠谱伙伴，抱团互助，迟疑观望会错失机会。",
+    "modern_summary": "主动靠近靠谱的人合作，观望太久就会错过窗口期。"
+  },
+  {
+    "id": 9,
+    "name": "风天小畜",
+    "upper_trigram": "巽",
+    "lower_trigram": "乾",
+    "symbol": "☴☰",
+    "gua_text": "小畜：亨。密云不雨，自我西郊。",
+    "traditional_meaning": "力量尚弱，只能小幅积累，不足以大展宏图。",
+    "modern_summary": "现阶段只能慢慢攒资源，想一步到位做大并不现实。"
+  },
+  {
+    "id": 10,
+    "name": "天泽履",
+    "upper_trigram": "乾",
+    "lower_trigram": "兑",
+    "symbol": "☰☱",
+    "gua_text": "履：履虎尾，不咥人，亨。",
+    "traditional_meaning": "行事谨慎，如踩虎尾，守好分寸不要越界。",
+    "modern_summary": "做事把握边界感，胆大但不能莽撞，小心踩坑。"
+  },
+  {
+    "id": 11,
+    "name": "地天泰",
+    "upper_trigram": "坤",
+    "lower_trigram": "乾",
+    "symbol": "☷☰",
+    "gua_text": "泰：小往大来，吉亨。",
+    "traditional_meaning": "阴阳相合，上下通畅，诸事顺遂。",
+    "modern_summary": "当下内外状态很顺，可以顺势推进计划。"
+  },
+  {
+    "id": 12,
+    "name": "天地否",
+    "upper_trigram": "乾",
+    "lower_trigram": "坤",
+    "symbol": "☰☷",
+    "gua_text": "否：否之匪人，不利君子贞，大往小来。",
+    "traditional_meaning": "闭塞阻滞，沟通不畅，不宜强行推进。",
+    "modern_summary": "现在环境阻力很大，先暂停推进，不要硬扛。"
+  },
+  {
+    "id": 13,
+    "name": "天火同人",
+    "upper_trigram": "乾",
+    "lower_trigram": "离",
+    "symbol": "☰☲",
+    "gua_text": "同人：于野，亨。利涉大川，利君子贞。",
+    "traditional_meaning": "同心协力，放下私心，寻求共识合作。",
+    "modern_summary": "多找同频伙伴，单打独斗很难做成大事。"
+  },
+  {
+    "id": 14,
+    "name": "火天大有",
+    "upper_trigram": "离",
+    "lower_trigram": "乾",
+    "symbol": "☲☰",
+    "gua_text": "大有：元亨。",
+    "traditional_meaning": "得时得势，有所收获，但不可骄傲放纵。",
+    "modern_summary": "现阶段有不错收获，不要飘，守住成果更重要。"
+  },
+  {
+    "id": 15,
+    "name": "地山谦",
+    "upper_trigram": "坤",
+    "lower_trigram": "艮",
+    "symbol": "☷☶",
+    "gua_text": "谦：亨。君子有终。",
+    "traditional_meaning": "待人谦和，低调内敛，满招损，谦受益。",
+    "modern_summary": "越是有点成绩越要低调，张扬容易招来麻烦。"
+  },
+  {
+    "id": 16,
+    "name": "雷地豫",
+    "upper_trigram": "震",
+    "lower_trigram": "坤",
+    "symbol": "☳☷",
+    "gua_text": "豫：利建侯行师。",
+    "traditional_meaning": "顺应本心，提前规划，享受当下但不可懈怠。",
+    "modern_summary": "可以适当放松调整，但别完全躺平荒废正事。"
+  },
+  {
+    "id": 17,
+    "name": "泽雷随",
+    "upper_trigram": "兑",
+    "lower_trigram": "震",
+    "symbol": "☱☳",
+    "gua_text": "随：元亨，利贞，无咎。",
+    "traditional_meaning": "择善相随，顺势而行，守正则无过失。",
+    "modern_summary": "可以顺势跟随别人做事，但切记不要无脑跟风。"
+  },
+  {
+    "id": 18,
+    "name": "山风蛊",
+    "upper_trigram": "艮",
+    "lower_trigram": "巽",
+    "symbol": "☶☴",
+    "gua_text": "蛊：元亨，利涉大川。先甲三日，后甲三日。",
+    "traditional_meaning": "积弊已久，必须彻底革新，及时修正旧问题。",
+    "modern_summary": "旧模式已经出问题了，必须主动做出调整改变。"
+  },
+  {
+    "id": 19,
+    "name": "地泽临",
+    "upper_trigram": "坤",
+    "lower_trigram": "兑",
+    "symbol": "☷☱",
+    "gua_text": "临：元亨，利贞。至于八月有凶。",
+    "traditional_meaning": "近距离体察局势，主动管控，慎防后期松懈。",
+    "modern_summary": "多主动跟进事态，不要放任事情自由发展。"
+  },
+  {
+    "id": 20,
+    "name": "风地观",
+    "upper_trigram": "巽",
+    "lower_trigram": "坤",
+    "symbol": "☴☷",
+    "gua_text": "观：盥而不荐，有孚颙若。",
+    "traditional_meaning": "冷静观察，多看少动，看清全貌之后再做决定。",
+    "modern_summary": "先旁观摸清情况，别急着下场做决策。"
+  },
+  {
+    "id": 21,
+    "name": "火雷噬嗑",
+    "upper_trigram": "离",
+    "lower_trigram": "震",
+    "symbol": "☲☳",
+    "gua_text": "噬嗑：亨。利用狱。",
+    "traditional_meaning": "破除阻碍，果断处理矛盾，该决断不能犹豫。",
+    "modern_summary": "遇到卡点要直接解决问题，不要一直拖着回避。"
+  },
+  {
+    "id": 22,
+    "name": "山火贲",
+    "upper_trigram": "艮",
+    "lower_trigram": "离",
+    "symbol": "☶☲",
+    "gua_text": "贲：亨。小利有攸往。",
+    "traditional_meaning": "修饰文饰，注重外在包装，但不可虚有其表。",
+    "modern_summary": "适当包装展示自己没问题，核心实力不能丢。"
+  },
+  {
+    "id": 23,
+    "name": "山地剥",
+    "upper_trigram": "艮",
+    "lower_trigram": "坤",
+    "symbol": "☶☷",
+    "gua_text": "剥：不利有攸往。",
+    "traditional_meaning": "根基被侵蚀，局势在衰退，不宜进取，以守为主。",
+    "modern_summary": "整体趋势下行，尽量保守防守，减少新投入。"
+  },
+  {
+    "id": 24,
+    "name": "地雷复",
+    "upper_trigram": "坤",
+    "lower_trigram": "震",
+    "symbol": "☷☳",
+    "gua_text": "复：亨。出入无疾，朋来无咎。反复其道，七日来复，利有攸往。",
+    "traditional_meaning": "否极泰来，重新回归正道，迎来新的转机。",
+    "modern_summary": "低谷之后迎来回暖，可以慢慢重新启动计划。"
+  },
+  {
+    "id": 25,
+    "name": "天雷无妄",
+    "upper_trigram": "乾",
+    "lower_trigram": "震",
+    "symbol": "☰☳",
+    "gua_text": "无妄：元，亨，利，贞。其匪正有眚，不利有攸往。",
+    "traditional_meaning": "行事遵从本心正道，不可妄想投机走捷径。",
+    "modern_summary": "不要幻想躺赢或者投机，踏踏实实做事才靠谱。"
+  },
+  {
+    "id": 26,
+    "name": "山天大畜",
+    "upper_trigram": "艮",
+    "lower_trigram": "乾",
+    "symbol": "☶☰",
+    "gua_text": "大畜：利贞，不家食吉，利涉大川。",
+    "traditional_meaning": "大量积累学识资源，厚积之后方能施展抱负。",
+    "modern_summary": "现阶段重点沉淀自己，攒足实力再谋求突破。"
+  },
+  {
+    "id": 27,
+    "name": "山雷颐",
+    "upper_trigram": "艮",
+    "lower_trigram": "震",
+    "symbol": "☶☳",
+    "gua_text": "颐：贞吉。观颐，自求口实。",
+    "traditional_meaning": "慎言节食，自我滋养，所求终究依靠自身努力。",
+    "modern_summary": "不要总指望别人给机会，想要什么只能靠自己争取。"
+  },
+  {
+    "id": 28,
+    "name": "泽风大过",
+    "upper_trigram": "兑",
+    "lower_trigram": "巽",
+    "symbol": "☱☴",
+    "gua_text": "大过：栋桡，利有攸往，亨。",
+    "traditional_meaning": "局面失衡压力巨大，需要大胆破局，但慎防极端。",
+    "modern_summary": "现在压力已经过载，必须大胆调整，不能维持现状硬撑。"
+  },
+  {
+    "id": 29,
+    "name": "坎为水",
+    "upper_trigram": "坎",
+    "lower_trigram": "坎",
+    "symbol": "☵☵",
+    "gua_text": "习坎：有孚维心，亨。行有尚。",
+    "traditional_meaning": "重重险阻，内心坚定，步步谨慎渡过难关。",
+    "modern_summary": "接连遇到困难，稳住心态，一步一步慢慢熬过去。"
+  },
+  {
+    "id": 30,
+    "name": "离为火",
+    "upper_trigram": "离",
+    "lower_trigram": "离",
+    "symbol": "☲☲",
+    "gua_text": "离：利贞，亨。畜牝牛，吉。",
+    "traditional_meaning": "依附正道，借助外力，保持柔和谦逊。",
+    "modern_summary": "可以借力外部资源，但要有自己的底线和原则。"
+  },
+  {
+    "id": 31,
+    "name": "泽山咸",
+    "upper_trigram": "兑",
+    "lower_trigram": "艮",
+    "symbol": "☱☶",
+    "gua_text": "咸：亨。利贞，取女吉。",
+    "traditional_meaning": "心意相感，双向吸引，贵在真诚共情。",
+    "modern_summary": "人与人相处重在共情，单方面付出很难长久。"
+  },
+  {
+    "id": 32,
+    "name": "雷风恒",
+    "upper_trigram": "震",
+    "lower_trigram": "巽",
+    "symbol": "☳☴",
+    "gua_text": "恒：亨，无咎，利贞。利有攸往。",
+    "traditional_meaning": "持之以恒，长期坚守，不要频繁更换方向。",
+    "modern_summary": "选定方向就长期深耕，三天打鱼很难做出结果。"
+  },
+  {
+    "id": 33,
+    "name": "天山遁",
+    "upper_trigram": "乾",
+    "lower_trigram": "艮",
+    "symbol": "☰☶",
+    "gua_text": "遁：亨。小利贞。",
+    "traditional_meaning": "局势不利，适时退让隐避，不要硬扛消耗自己。",
+    "modern_summary": "环境不合适就暂时后撤，没必要死磕耗光精力。"
+  },
+  {
+    "id": 34,
+    "name": "雷天大壮",
+    "upper_trigram": "震",
+    "lower_trigram": "乾",
+    "symbol": "☳☰",
+    "gua_text": "大壮：利贞。",
+    "traditional_meaning": "力量强盛，但不可恃强冲动，守正方能长久。",
+    "modern_summary": "现在能力充足，但不要冲动自大，稳着推进。"
+  },
+  {
+    "id": 35,
+    "name": "火地晋",
+    "upper_trigram": "离",
+    "lower_trigram": "坤",
+    "symbol": "☲☷",
+    "gua_text": "晋：康侯用锡马蕃庶，昼日三接。",
+    "traditional_meaning": "循序渐进，稳步晋升，靠积累慢慢获得认可。",
+    "modern_summary": "一点点拿出成果，你的努力会慢慢被看见。"
+  },
+  {
+    "id": 36,
+    "name": "地火明夷",
+    "upper_trigram": "坤",
+    "lower_trigram": "离",
+    "symbol": "☷☲",
+    "gua_text": "明夷：利艰贞。",
+    "traditional_meaning": "光明受损，处境昏暗，收敛锋芒守住本心。",
+    "modern_summary": "当下环境对你不友好，先藏起棱角保护自己。"
+  },
+  {
+    "id": 37,
+    "name": "风火家人",
+    "upper_trigram": "巽",
+    "lower_trigram": "离",
+    "symbol": "☴☲",
+    "gua_text": "家人：利女贞。",
+    "traditional_meaning": "对内修身，打理内部关系，守住内部秩序。",
+    "modern_summary": "先把身边、团队内部理顺，外部事情才好推进。"
+  },
+  {
+    "id": 38,
+    "name": "火泽睽",
+    "upper_trigram": "离",
+    "lower_trigram": "兑",
+    "symbol": "☲☱",
+    "gua_text": "睽：小事吉。",
+    "traditional_meaning": "理念分歧，想法不合，大事难成，小事可行。",
+    "modern_summary": "双方想法不一样，不要强求大合作，做小事尚可。"
+  },
+  {
+    "id": 39,
+    "name": "水山蹇",
+    "upper_trigram": "坎",
+    "lower_trigram": "艮",
+    "symbol": "☵☶",
+    "gua_text": "蹇：利西南，不利东北；利见大人，贞吉。",
+    "traditional_meaning": "前路艰难险阻，量力而行，寻求贵人协助。",
+    "modern_summary": "阻力很大，自己硬扛很累，可以找前辈指点。"
+  },
+  {
+    "id": 40,
+    "name": "雷水解",
+    "upper_trigram": "震",
+    "lower_trigram": "坎",
+    "symbol": "☳☵",
+    "gua_text": "解：利西南，无所往，其来复吉。有攸往，夙吉。",
+    "traditional_meaning": "困局消散，矛盾化解，抓住时机及时行动。",
+    "modern_summary": "僵持的局面慢慢解开了，可以顺势推进计划。"
+  },
+  {
+    "id": 41,
+    "name": "山泽损",
+    "upper_trigram": "艮",
+    "lower_trigram": "兑",
+    "symbol": "☶☱",
+    "gua_text": "损：有孚，元吉，无咎，可贞，利有攸往。",
+    "traditional_meaning": "适当自我减损付出，取舍有度，牺牲局部保全大局。",
+    "modern_summary": "必要的时候学会取舍，舍弃一部分利益换取整体顺利。"
+  },
+  {
+    "id": 42,
+    "name": "风雷益",
+    "upper_trigram": "巽",
+    "lower_trigram": "震",
+    "symbol": "☴☳",
+    "gua_text": "益：利有攸往，利涉大川。",
+    "traditional_meaning": "增益付出，利他共赢，投入会得到正向回报。",
+    "modern_summary": "适当投入精力帮助别人，长期会给你带来正向收益。"
+  },
+  {
+    "id": 43,
+    "name": "泽天夬",
+    "upper_trigram": "兑",
+    "lower_trigram": "乾",
+    "symbol": "☱☰",
+    "gua_text": "夬：扬于王庭，孚号，有厉。告自邑，不利即戎，利有攸往。",
+    "traditional_meaning": "决断清除隐患，果断切割问题，慎防冲动冲突。",
+    "modern_summary": "该断就要果断切割，拖泥带水只会持续拖累你。"
+  },
+  {
+    "id": 44,
+    "name": "天风姤",
+    "upper_trigram": "乾",
+    "lower_trigram": "巽",
+    "symbol": "☰☴",
+    "gua_text": "姤：女壮，勿用取女。",
+    "traditional_meaning": "意外相遇，突如其来的际遇，审慎分辨好坏。",
+    "modern_summary": "突然出现新机会，先甄别风险，不要立刻全盘入局。"
+  },
+  {
+    "id": 45,
+    "name": "泽地萃",
+    "upper_trigram": "兑",
+    "lower_trigram": "坤",
+    "symbol": "☱☷",
+    "gua_text": "萃：亨。王假有庙，利见大人，亨，利贞。",
+    "traditional_meaning": "人才事物汇聚聚集，借聚集之势谋求发展。",
+    "modern_summary": "人脉资源慢慢向你聚拢，把握住交流合作机会。"
+  },
+  {
+    "id": 46,
+    "name": "地风升",
+    "upper_trigram": "坤",
+    "lower_trigram": "巽",
+    "symbol": "☷☴",
+    "gua_text": "升：元亨，用见大人，勿恤，南征吉。",
+    "traditional_meaning": "循序渐进上升，顺势成长，不需要急于求成。",
+    "modern_summary": "处于上升通道，一步一步往上走就可以。"
+  },
+  {
+    "id": 47,
+    "name": "泽水困",
+    "upper_trigram": "兑",
+    "lower_trigram": "坎",
+    "symbol": "☱☵",
+    "gua_text": "困：亨，贞，大人吉，无咎，有言不信。",
+    "traditional_meaning": "陷入困境资源不足，少说多做，辩解没有用处。",
+    "modern_summary": "现在处于低谷困境，光解释没用，拿出行动破局。"
+  },
+  {
+    "id": 48,
+    "name": "水风井",
+    "upper_trigram": "坎",
+    "lower_trigram": "巽",
+    "symbol": "☵☴",
+    "gua_text": "井：改邑不改井，无丧无得，往来井井。",
+    "traditional_meaning": "根基恒久不变，持续输出价值，滋养他人。",
+    "modern_summary": "打磨一项长期价值，持续输出，时间会给你回报。"
+  },
+  {
+    "id": 49,
+    "name": "泽火革",
+    "upper_trigram": "兑",
+    "lower_trigram": "离",
+    "symbol": "☱☲",
+    "gua_text": "革：己日乃孚，元亨，利贞，悔亡。",
+    "traditional_meaning": "破旧革新，时机成熟之后果断变革，获得信任。",
+    "modern_summary": "旧模式已经失效，看准时机大胆做出改变。"
+  },
+  {
+    "id": 50,
+    "name": "火风鼎",
+    "upper_trigram": "离",
+    "lower_trigram": "巽",
+    "symbol": "☲☴",
+    "gua_text": "鼎：元吉，亨。",
+    "traditional_meaning": "树立新格局，建立新体系，奠定长期根基。",
+    "modern_summary": "搭建属于自己的体系框架，为长期发展铺路。"
+  },
+  {
+    "id": 51,
+    "name": "震为雷",
+    "upper_trigram": "震",
+    "lower_trigram": "震",
+    "symbol": "☳☳",
+    "gua_text": "震：亨。震来虩虩，笑言哑哑。震惊百里，不丧匕鬯。",
+    "traditional_meaning": "突发变动，危机来袭，内心镇定，临危不乱。",
+    "modern_summary": "突发变故打乱计划，稳住心态，不要慌乱决策。"
+  },
+  {
+    "id": 52,
+    "name": "艮为山",
+    "upper_trigram": "艮",
+    "lower_trigram": "艮",
+    "symbol": "☶☶",
+    "gua_text": "艮其背，不获其身，行其庭，不见其人，无咎。",
+    "traditional_meaning": "懂得停止，守住边界，该停的时候及时止步。",
+    "modern_summary": "不要一直往前冲，学会适时停下复盘调整。"
+  },
+  {
+    "id": 53,
+    "name": "风山渐",
+    "upper_trigram": "巽",
+    "lower_trigram": "艮",
+    "symbol": "☴☶",
+    "gua_text": "渐：女归吉，利贞。",
+    "traditional_meaning": "循序渐进，一步一步稳步推进，不可跨越式冒进。",
+    "modern_summary": "事情只能慢慢来，不要指望一步直接达成目标。"
+  },
+  {
+    "id": 54,
+    "name": "雷泽归妹",
+    "upper_trigram": "震",
+    "lower_trigram": "兑",
+    "symbol": "☳☱",
+    "gua_text": "归妹：征凶，无攸利。",
+    "traditional_meaning": "强求结合，位置错位，勉强行事很难有好结果。",
+    "modern_summary": "不要勉强凑合作事，不对等的关系很难长久。"
+  },
+  {
+    "id": 55,
+    "name": "雷火丰",
+    "upper_trigram": "震",
+    "lower_trigram": "离",
+    "symbol": "☳☲",
+    "gua_text": "丰：亨，王假之，勿忧，宜日中。",
+    "traditional_meaning": "丰盛盛大，事业鼎盛，盛极之时慎防衰败。",
+    "modern_summary": "当下状态很好，但不要挥霍红利，提前规划后路。"
+  },
+  {
+    "id": 56,
+    "name": "火山旅",
+    "upper_trigram": "离",
+    "lower_trigram": "艮",
+    "symbol": "☲☶",
+    "gua_text": "旅：小亨，旅贞吉。",
+    "traditional_meaning": "漂泊不定，居无定所，行事谨慎不可张扬。",
+    "modern_summary": "处于不稳定过渡期，低调行事，不要做大额投入。"
+  },
+  {
+    "id": 57,
+    "name": "巽为风",
+    "upper_trigram": "巽",
+    "lower_trigram": "巽",
+    "symbol": "☴☴",
+    "gua_text": "巽：小亨，利有攸往，利见大人。",
+    "traditional_meaning": "顺势谦逊，多方渗透，循序渐进推进事情。",
+    "modern_summary": "柔和渗透慢慢推进，硬碰硬反而不容易达成目的。"
+  },
+  {
+    "id": 58,
+    "name": "兑为泽",
+    "upper_trigram": "兑",
+    "lower_trigram": "兑",
+    "symbol": "☱☱",
+    "gua_text": "兑：亨，利贞。",
+    "traditional_meaning": "和悦沟通，坦诚交流，靠沟通化解矛盾。",
+    "modern_summary": "多好好沟通表达情绪，冷战解决不了任何问题。"
+  },
+  {
+    "id": 59,
+    "name": "风水涣",
+    "upper_trigram": "巽",
+    "lower_trigram": "坎",
+    "symbol": "☴☵",
+    "gua_text": "涣：亨。王假有庙，利涉大川，利贞。",
+    "traditional_meaning": "涣散分离，打散旧格局，重新梳理整合资源。",
+    "modern_summary": "旧的局面已经散开，可以趁机会重新整合规划。"
+  },
+  {
+    "id": 60,
+    "name": "水泽节",
+    "upper_trigram": "坎",
+    "lower_trigram": "兑",
+    "symbol": "☵☱",
+    "gua_text": "节：亨。苦节不可贞。",
+    "traditional_meaning": "节制约束，建立规则，不可过度苛刻自我。",
+    "modern_summary": "给自己设立边界和计划，不要过度透支自己。"
+  },
+  {
+    "id": 61,
+    "name": "风泽中孚",
+    "upper_trigram": "巽",
+    "lower_trigram": "兑",
+    "symbol": "☴☱",
+    "gua_text": "中孚：豚鱼吉，利涉大川，利贞。",
+    "traditional_meaning": "内心至诚守信，真诚待人，守信方能成事。",
+    "modern_summary": "不管合作还是相处，真诚永远是最管用的底牌。"
+  },
+  {
+    "id": 62,
+    "name": "雷山小过",
+    "upper_trigram": "震",
+    "lower_trigram": "艮",
+    "symbol": "☳☶",
+    "gua_text": "小过：亨，利贞。可小事，不可大事。飞鸟遗之音，不宜上，宜下，大吉。",
+    "traditional_meaning": "小有偏差失误，小事可变通，大事不可冒进。",
+    "modern_summary": "小事可以灵活变通，重大决策一定要保守谨慎。"
+  },
+  {
+    "id": 63,
+    "name": "水火既济",
+    "upper_trigram": "坎",
+    "lower_trigram": "离",
+    "symbol": "☵☲",
+    "gua_text": "既济：亨，小利贞，初吉终乱。",
+    "traditional_meaning": "事情初步完成，取得阶段性胜利，慎防后期松懈翻车。",
+    "modern_summary": "阶段性目标达成了，不要松懈，收尾同样重要。"
+  },
+  {
+    "id": 64,
+    "name": "火水未济",
+    "upper_trigram": "离",
+    "lower_trigram": "坎",
+    "symbol": "☲☵",
+    "gua_text": "未济：亨。小狐汔济，濡其尾，无攸利。",
+    "traditional_meaning": "事情尚未完成，一切还未定局，谨慎走完最后一段。",
+    "modern_summary": "事情还没彻底落地，不要提前庆祝，坚持做完。"
+  }
+]
