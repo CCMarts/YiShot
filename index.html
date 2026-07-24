@@ -301,7 +301,7 @@
         .divider {
             text-align: center;
             color: #333;
-            font-size: 24px;
+            font-size: 12px;
             padding: 8px 0;
             letter-spacing: 8px;
             font-variant-emoji: text;
@@ -359,15 +359,12 @@
             letter-spacing: 2px;
         }
 
-        .nav-buttons {
-            display: flex;
-            gap: 12px;
+        .current-time {
+            text-align: center;
             margin-top: 24px;
-            padding: 0 20px;
-        }
-
-        .nav-buttons .btn {
-            flex: 1;
+            font-size: 14px;
+            color: #333;
+            letter-spacing: 2px;
         }
 
         @media (max-width: 480px) {
@@ -397,10 +394,6 @@
                 padding: 20px 0 0;
             }
 
-            .nav-buttons {
-                padding: 0;
-            }
-
             .upload-icon {
                 font-size: 40px;
             }
@@ -428,9 +421,6 @@
                 line-height: 1.9;
             }
 
-            .nav-buttons {
-                gap: 10px;
-            }
         }
 
         @media (max-width: 360px) {
@@ -494,18 +484,15 @@
                 </div>
             </div>
 
-              <div class="summary-box">
+            <div class="summary-box">
                 <div class="summary-title">解 读</div>
                 <div class="summary-text" id="summary-text"></div>
             </div>
 
             <div class="divider">— ☯︎ —</div>
 
-            <div class="nav-buttons">
-                <!--
-                <button class="btn btn-secondary" id="back-btn">返 回</button>
-                <button class="btn btn-primary" id="retry-btn">再 占 一 卦</button>
-                -->
+            <div class="current-time">
+                <span id="time-display"></span>
             </div>
         </div>
     </div>
@@ -523,8 +510,7 @@
         const uploadView = document.getElementById('upload-view');
         const loading = document.getElementById('loading');
         const resultArea = document.getElementById('result-area');
-        const backBtn = document.getElementById('back-btn');
-        const retryBtn = document.getElementById('retry-btn');
+        const timeDisplay = document.getElementById('time-display');
 
         async function loadData() {
             try {
@@ -582,16 +568,7 @@
             }
         });
 
-        backBtn.addEventListener('click', () => {
-            resultArea.classList.remove('active');
-            uploadView.style.display = 'block';
-        });
 
-        retryBtn.addEventListener('click', () => {
-            resultArea.classList.remove('active');
-            uploadView.style.display = 'block';
-            resetUpload();
-        });
 
         function resetUpload() {
             currentPhotoData = null;
@@ -726,6 +703,12 @@
             }
 
             document.getElementById('summary-text').textContent = summary;
+
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            timeDisplay.textContent = `${year} / ${month} / ${day}`;
         }
 
         loadData();
